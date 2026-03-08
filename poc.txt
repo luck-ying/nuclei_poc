@@ -108303,7 +108303,7 @@
 ./poc/cve/CVE-2025-26592-chakra-dc82bfca-75de-4c77-a0ac-b34525b29a8d.yaml
 ./poc/cve/CVE-2025-26592-chardonnay-dc82bfca-75de-4c77-a0ac-b34525b29a8d.yaml
 ./poc/cve/CVE-2025-26592-childy-dc82bfca-75de-4c77-a0ac-b34525b29a8d.yaml
-./poc/cve/CVE-2025-26592-city_hostel-dc82bfca-75de-4c77-a0ac-b34525b29a8d.yaml
+./poc/cve/CVE-2025-26592-cityhostel-dc82bfca-75de-4c77-a0ac-b34525b29a8d.yaml
 ./poc/cve/CVE-2025-26592-clothing69-dc82bfca-75de-4c77-a0ac-b34525b29a8d.yaml
 ./poc/cve/CVE-2025-26592-corredo-dc82bfca-75de-4c77-a0ac-b34525b29a8d.yaml
 ./poc/cve/CVE-2025-26592-crework-dc82bfca-75de-4c77-a0ac-b34525b29a8d.yaml
@@ -108358,6 +108358,7 @@
 ./poc/cve/CVE-2025-26592-vagabonds-dc82bfca-75de-4c77-a0ac-b34525b29a8d.yaml
 ./poc/cve/CVE-2025-26592-wine_house-dc82bfca-75de-4c77-a0ac-b34525b29a8d.yaml
 ./poc/cve/CVE-2025-26592-wise_move-dc82bfca-75de-4c77-a0ac-b34525b29a8d.yaml
+./poc/cve/CVE-2025-26592-wisemove-dc82bfca-75de-4c77-a0ac-b34525b29a8d.yaml
 ./poc/cve/CVE-2025-26592-wotahub-dc82bfca-75de-4c77-a0ac-b34525b29a8d.yaml
 ./poc/cve/CVE-2025-26593-fastbook_responsive_appointment_booking_and_scheduling_system-5d1dc9b4-9018-4e23-933b-5c03fa60d56a.yaml
 ./poc/cve/CVE-2025-26730-34d1e3710439810a93b6595058810c31_1.yaml
@@ -169611,6 +169612,7 @@
 ./poc/other/citybook_3.yaml
 ./poc/other/citygov-01d3c9b4-fce5-41d4-8cd8-2b26f1fe171a.yaml
 ./poc/other/citygov.yaml
+./poc/other/cityhostel-dc82bfca-75de-4c77-a0ac-b34525b29a8d.yaml
 ./poc/other/citylogic-3b007d8a-3096-42f3-a7be-e0e0d3addf0b.yaml
 ./poc/other/citylogic.yaml
 ./poc/other/citylogic_1_2.yaml
@@ -231028,6 +231030,7 @@
 ./poc/other/wiseagentleadform-f3ec43201fa3abbfb9fd4fe041c6ef2d.yaml
 ./poc/other/wiseagentleadform_1_1.yaml
 ./poc/other/wiseagentleadform_4.yaml
+./poc/other/wisemove-dc82bfca-75de-4c77-a0ac-b34525b29a8d.yaml
 ./poc/other/wisepower-oa.yaml
 ./poc/other/wisepower-oa_1.yaml
 ./poc/other/wiser-notify-834073d9e51f66a40533f8e5506e37bc.yaml
