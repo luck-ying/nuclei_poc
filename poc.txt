@@ -108696,11 +108696,9 @@
 ./poc/cve/CVE-2025-2709_1.yaml
 ./poc/cve/CVE-2025-2709_2.yaml
 ./poc/cve/CVE-2025-2709_3.yaml
-./poc/cve/CVE-2025-2710.yaml
 ./poc/cve/CVE-2025-2710_1.yaml
 ./poc/cve/CVE-2025-2710_2.yaml
 ./poc/cve/CVE-2025-2710_3.yaml
-./poc/cve/CVE-2025-2711.yaml
 ./poc/cve/CVE-2025-27112.yaml
 ./poc/cve/CVE-2025-27112_1.yaml
 ./poc/cve/CVE-2025-27112_2.yaml
@@ -140571,6 +140569,7 @@
 ./poc/nodejs/nodebb-installer_3_1.yaml
 ./poc/nodejs/nodebb-installer_4.yaml
 ./poc/nodejs/nodebb_1.yaml
+./poc/nodejs/nodejs-framework-exceptions.yaml
 ./poc/nodejs/nodejs-framework-exceptions_1.yaml
 ./poc/nodejs/nodejs-framework-exceptions_2.yaml
 ./poc/nodejs/nodejs-framework-exceptions_3.yaml
