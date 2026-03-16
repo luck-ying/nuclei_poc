@@ -83164,7 +83164,6 @@
 ./poc/cve/CVE-2024-21633_2.yaml
 ./poc/cve/CVE-2024-21633_3.yaml
 ./poc/cve/CVE-2024-2163_1.yaml
-./poc/cve/CVE-2024-21641.yaml
 ./poc/cve/CVE-2024-21641_1.yaml
 ./poc/cve/CVE-2024-21641_2.yaml
 ./poc/cve/CVE-2024-21641_3.yaml
