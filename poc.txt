@@ -83164,6 +83164,7 @@
 ./poc/cve/CVE-2024-21633_2.yaml
 ./poc/cve/CVE-2024-21633_3.yaml
 ./poc/cve/CVE-2024-2163_1.yaml
+./poc/cve/CVE-2024-21641.yaml
 ./poc/cve/CVE-2024-21641_1.yaml
 ./poc/cve/CVE-2024-21641_2.yaml
 ./poc/cve/CVE-2024-21641_3.yaml
@@ -117882,6 +117883,7 @@
 ./poc/cve/CVE-2026-2365-fluentformpro-5e911b0a-a236-4df3-b997-3631412a1b55.yaml
 ./poc/cve/CVE-2026-23693-elementskit_lite-85025fb9-6e19-4c0f-bf16-4b890ba5f7f5.yaml
 ./poc/cve/CVE-2026-2371-greenshift_animation_and_page_builder_blocks-52632b50-9755-4ebd-a1a8-587cc633debb.yaml
+./poc/cve/CVE-2026-2373-royal_elementor_addons-c4192a7f-b962-46f9-a524-7271ed6f4917.yaml
 ./poc/cve/CVE-2026-23799-tutor-24009534-3a57-4ed3-b841-72e87e2a6925.yaml
 ./poc/cve/CVE-2026-23800-modular_connector-8bd035bf-003f-4f97-be76-7b1c50727d21.yaml
 ./poc/cve/CVE-2026-23801-theissue-b90dc8f1-3f02-41e0-933c-8d9b8e7dc103.yaml
@@ -131106,10 +131108,10 @@
 ./poc/gcloud/gcloud-unrestricted-rdp-access_3.yaml
 ./poc/gcloud/gcloud-unrestricted-rpc-access_2.yaml
 ./poc/gcloud/gcloud-vertexai-auto-upgrades_2.yaml
-./poc/gcloud/gcloud-vertexai-external-ip_2.yaml
+./poc/gcloud/gcloud-vertexai-external-ip.yaml
 ./poc/gcloud/gcloud-vertexai-idle-shutdown_2.yaml
-./poc/gcloud/gcloud-vertexai-integrity_1.yaml
-./poc/gcloud/gcloud-vertexai-monitoring_3.yaml
+./poc/gcloud/gcloud-vertexai-integrity.yaml
+./poc/gcloud/gcloud-vertexai-monitoring.yaml
 ./poc/gcloud/gcloud-vertexai-root-access_3.yaml
 ./poc/gcloud/gcloud-vertexai-secure-boot_3.yaml
 ./poc/gcloud/gcloud-vertexai-vtpm_2.yaml
@@ -213818,6 +213820,7 @@
 ./poc/other/royal_elementor_addons-c23e9810-40ea-43e2-9292-f05f300a7ddf.yaml
 ./poc/other/royal_elementor_addons-c3dfb0b7-5d9f-492b-9a1a-d4445d39c00c.yaml
 ./poc/other/royal_elementor_addons-c3e47d14-4c00-4b10-9e4d-7f1d7946a2b4.yaml
+./poc/other/royal_elementor_addons-c4192a7f-b962-46f9-a524-7271ed6f4917.yaml
 ./poc/other/royal_elementor_addons-cb0ac434-7e85-44d4-b21e-df462f63cd9c.yaml
 ./poc/other/royal_elementor_addons-cb47b6cc-87e4-4d29-bbc7-6d7552bc3943.yaml
 ./poc/other/royal_elementor_addons-cca7bb88-4a2c-4406-8610-15ce6e77c31f.yaml
@@ -255845,6 +255848,7 @@
 ./poc/sql/CVE-2026-25364-sprout_invoices-dca7b232-db12-48a7-9f32-4451f4ced1af.yaml
 ./poc/sql/CVE-2026-25408-broken_link_notifier-92b1db98-aa8e-45ab-83c4-495f6390ee17.yaml
 ./poc/sql/CVE-2026-25410-wp_cors-b0224760-b492-4a00-bdf8-24a8db3ea3df.yaml
+./poc/sql/CVE-2026-2579-product_blocks-bd3ee85a-324d-4991-bffc-db28ce374bbe.yaml
 ./poc/sql/CVE-2026-2633-kadence_blocks-9c06e0a9-a13a-4cee-a1a5-c43c114b2dbf.yaml
 ./poc/sql/CVE-2026-27097-casamia-458f8d67-3395-4db1-8653-59550131c4bf.yaml
 ./poc/sql/CVE-2026-2732-enable_media_replace-2c5f2dc8-67f7-4dbf-8631-f434522f1b53.yaml
@@ -260293,6 +260297,7 @@
 ./poc/sql/product-catalog-feed-882db1cd8e171525e8105fde454cb081_2.yaml
 ./poc/sql/product-image-watermark-for-woo-6477bf18cad6c823db485408d49b337b_3.yaml
 ./poc/sql/product-specifications-598b8fb3f937dbe66f568c3332a0ca22.yaml
+./poc/sql/product_blocks-bd3ee85a-324d-4991-bffc-db28ce374bbe.yaml
 ./poc/sql/product_designer-28126b4f-1cb6-4e91-b1c0-09f407d1dbf8.yaml
 ./poc/sql/product_image_watermark_for_woo-39fb0499-9ab4-4a2f-b0db-ece86bcf4d42.yaml
 ./poc/sql/productdyno-fdc1289a-abd1-43db-89b7-3e81878a0f9a.yaml
