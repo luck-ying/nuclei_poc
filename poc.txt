@@ -42766,6 +42766,7 @@
 ./poc/cve/CVE-2021-40150_2_2.yaml
 ./poc/cve/CVE-2021-40150_3.yaml
 ./poc/cve/CVE-2021-40247_3.yaml
+./poc/cve/CVE-2021-40272.yaml
 ./poc/cve/CVE-2021-40272_1_2.yaml
 ./poc/cve/CVE-2021-40272_2.yaml
 ./poc/cve/CVE-2021-40272_3.yaml
@@ -83178,7 +83179,6 @@
 ./poc/cve/CVE-2024-21633_2.yaml
 ./poc/cve/CVE-2024-21633_3.yaml
 ./poc/cve/CVE-2024-2163_1.yaml
-./poc/cve/CVE-2024-21641.yaml
 ./poc/cve/CVE-2024-21641_1.yaml
 ./poc/cve/CVE-2024-21641_2.yaml
 ./poc/cve/CVE-2024-21641_3.yaml
@@ -118383,6 +118383,7 @@
 ./poc/cve/CVE-2026-3585-the_events_calendar-92e404ab-fe2b-45b3-b8ff-672f7888b747.yaml
 ./poc/cve/CVE-2026-3617-paypal_shortcodes-a9521ae8-e20e-49dd-a402-5521f8d2d98e.yaml
 ./poc/cve/CVE-2026-3619-sheets2table-82061b1f-a717-4007-978c-a3875669556f.yaml
+./poc/cve/CVE-2026-3629-import_users_from_csv_with_meta-48dd9098-38e6-49da-8d22-27e12fddef51.yaml
 ./poc/cve/CVE-2026-3641-appmax-6bf61bb7-f977-4afe-bb81-e6de12e00b03.yaml
 ./poc/cve/CVE-2026-3645-punnel_landing_page_builder-b6f54ca4-297f-44e8-8bb3-25cdc52f94ff.yaml
 ./poc/cve/CVE-2026-3651-build_app_online-51564b26-0d7c-4499-9f5a-84f76c5a5e8a.yaml
@@ -162022,6 +162023,7 @@
 ./poc/other/aspect-control-panel_1_1.yaml
 ./poc/other/aspentech-aspen-infoplus21_2.yaml
 ./poc/other/aspentech-aspen-infoplus21_3.yaml
+./poc/other/aspnet-framework-exceptions.yaml
 ./poc/other/aspnet-framework-exceptions_1.yaml
 ./poc/other/aspnet-framework-exceptions_2.yaml
 ./poc/other/aspnet-framework-exceptions_3.yaml
@@ -191111,6 +191113,7 @@
 ./poc/other/import_users_from_csv_with_meta-27478d23-961d-4a88-adf5-c3cdd79cc10c.yaml
 ./poc/other/import_users_from_csv_with_meta-2b81d7fc-6050-40bb-9416-e8d7d20e8ef8.yaml
 ./poc/other/import_users_from_csv_with_meta-4731eb39-8c01-4a2b-80f7-15d8c13a19b5.yaml
+./poc/other/import_users_from_csv_with_meta-48dd9098-38e6-49da-8d22-27e12fddef51.yaml
 ./poc/other/import_users_from_csv_with_meta-50ac32ed-f83c-4afc-aac2-a79c69497091.yaml
 ./poc/other/import_users_from_csv_with_meta-617f3062-2848-4c23-89e4-17a0f0d44977.yaml
 ./poc/other/import_users_from_csv_with_meta-78fef897-fcef-4238-9925-0ce610ee7686.yaml
@@ -256226,6 +256229,7 @@
 ./poc/sql/CVE-2026-3496-jet_booking-35e33e30-e102-445a-99d0-27adb7fc4638.yaml
 ./poc/sql/CVE-2026-4068-add_custom_fields_to_media-259a4950-9377-4d18-86ad-aadd97dcdbc7.yaml
 ./poc/sql/CVE-2026-4084-fyyd_podcast_shortcodes-3f9d57ae-b238-43db-8eee-ccab499b1cbc.yaml
+./poc/sql/CVE-2026-4314-wpextended-38ea001c-6edb-4f36-a7ec-19be1d857b9e.yaml
 ./poc/sql/E-Cology-getdata-Sql.yaml
 ./poc/sql/E-Office_group_xmlSQL_3.yaml
 ./poc/sql/E-message-database.yaml
@@ -263874,6 +263878,7 @@
 ./poc/sql/wpematico-5a1c6377-c2a7-4344-86bd-d2797db19469.yaml
 ./poc/sql/wpematico-a62a3a71-0dbb-48d6-ba1a-f218fefac871.yaml
 ./poc/sql/wpematico-faa9c2cd8103907adb57e076b30c167b.yaml
+./poc/sql/wpextended-38ea001c-6edb-4f36-a7ec-19be1d857b9e.yaml
 ./poc/sql/wpextended-5cbf272a84fe9acd0ee279a46db3911b_3.yaml
 ./poc/sql/wpextended-8ac02e639db6e2a3240dba6000e56f86_2.yaml
 ./poc/sql/wpextended-b3ce53e5-8666-4227-83d3-58f35db0ce68.yaml
@@ -273164,6 +273169,7 @@
 ./poc/wordpress/CVE-2026-28115-wp_attractivedonationssystem-6b0b2cac-cf4f-46cd-abe9-8ac6ff763a5d.yaml
 ./poc/wordpress/CVE-2026-2830-wp_all_import-afc85535-962d-479d-8580-9d02f7412930.yaml
 ./poc/wordpress/CVE-2026-32455-wp_meta_data_filter_and_taxonomy_filter-4da52b6a-38dd-4a66-bcaf-8a77f96377fe.yaml
+./poc/wordpress/CVE-2026-3427-wordpress_seo-fee1fef5-5716-49e0-a04e-d0dae527fcfc.yaml
 ./poc/wordpress/CVE-2026-3453-wp_user_avatar-74e4808f-bd6f-4e62-91cb-31c86a427498.yaml
 ./poc/wordpress/CVE-2026-3506-wp_chatbot-32cce973-bc3b-45f1-ad4d-ff395d3a6c8e.yaml
 ./poc/wordpress/CVE-2026-3906-wordpress-a69782f0-aa61-4049-8339-7f27f4b6c36b.yaml
@@ -277088,6 +277094,7 @@
 ./poc/wordpress/wordpress_seo-e8b62157-8c32-462f-aba7-dab137f98f32.yaml
 ./poc/wordpress/wordpress_seo-f162e046-a7d3-4f2c-899d-6c46cb92c8ee.yaml
 ./poc/wordpress/wordpress_seo-fbc393a6-8357-47b2-9abd-aa611b09eb1c.yaml
+./poc/wordpress/wordpress_seo-fee1fef5-5716-49e0-a04e-d0dae527fcfc.yaml
 ./poc/wordpress/wordpress_seo_premium-a6e3645d-ed1b-4c51-a463-c2691cb7168d.yaml
 ./poc/wordpress/wordpress_signature-a217794b-9da3-4286-a851-79b33c6b7e99.yaml
 ./poc/wordpress/wordpress_simple_paypal_shopping_cart-4071c361-3a68-49b7-ac50-4b32e2e1c3ff.yaml
