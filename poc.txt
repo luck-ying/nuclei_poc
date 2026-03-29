@@ -129094,6 +129094,7 @@
 ./poc/cve/CVE-2026-2593-greenshift_animation_and_page_builder_blocks-57b7b171-cd25-4bcd-aa75-3ccbfbb1452a.yaml
 ./poc/cve/CVE-2026-2595-quick_adsense_reloaded-99051b12-5a24-4108-9ea4-81f37a1c1b35.yaml
 ./poc/cve/CVE-2026-2599-contact_form_entries-7a116f28-a560-4b54-9cd1-f1dd9ac3238d.yaml
+./poc/cve/CVE-2026-2602-twentig-f07881db-7494-4e6d-82ea-16018fa81806.yaml
 ./poc/cve/CVE-2026-2608-kadence_blocks-05dd1686-76e3-498b-80b8-c4befc545fc8.yaml
 ./poc/cve/CVE-2026-2626-divi_booster-7a59ccdc-d265-4e8c-96b2-4eba3bb33591.yaml
 ./poc/cve/CVE-2026-2628-login_with_azure-5e15e36e-55f9-4095-a0ba-48ef9434606a.yaml
@@ -260110,6 +260111,7 @@
 ./poc/sql/tutor_pro-4b41d134-be9e-469f-b26b-ac30d95db0a3.yaml
 ./poc/sql/twchat-f677ac3dbc601d5876f166865991b83c.yaml
 ./poc/sql/tweet_wheel-f8db6a27-111b-4e6d-966e-0af0833307b1.yaml
+./poc/sql/twentig-f07881db-7494-4e6d-82ea-16018fa81806.yaml
 ./poc/sql/twenty_twelve_edd-12946a87-0b61-45ea-aae3-385d860b0db8.yaml
 ./poc/sql/twigify-b7de650c05254b194a03adb0bbb4b850_1.yaml
 ./poc/sql/twitter-bootstrap-slider-05618a8581e0f080dedba3ca942cc17a.yaml
