@@ -129368,6 +129368,7 @@
 ./poc/cve/CVE-2026-3079-sfwd_lms-29a560fa-03bf-435c-85da-68397deab2a6.yaml
 ./poc/cve/CVE-2026-3090-post_smtp-3f8cbbbb-2089-4966-8fd3-da4f76fb2517.yaml
 ./poc/cve/CVE-2026-3098-smart_slider_3-e2ce9caf-2ca2-401c-acc7-76be2fd72f36.yaml
+./poc/cve/CVE-2026-3124-download_monitor-45527d6c-6866-44e6-85c2-5be984afbbc9.yaml
 ./poc/cve/CVE-2026-3132-master_addons_pro-76c31190-9db9-4d14-83e0-cbfca812e8ea.yaml
 ./poc/cve/CVE-2026-3138-woo_product_filter-085a4fae-c3f4-45f9-ab30-846c6297d04e.yaml
 ./poc/cve/CVE-2026-3178-name_directory-3ebac8bc-1dca-4bcd-a033-fb8ed210bf4e.yaml
@@ -186458,6 +186459,7 @@
 ./poc/other/download_monitor-306facf0-b1e4-4ba7-9462-f94af01d628d.yaml
 ./poc/other/download_monitor-3acaedff-f616-4b66-9208-f7e6a4df920d.yaml
 ./poc/other/download_monitor-3b515142-4e04-4570-b5cb-18261974c659.yaml
+./poc/other/download_monitor-45527d6c-6866-44e6-85c2-5be984afbbc9.yaml
 ./poc/other/download_monitor-4f7fa5a4-07d7-4815-b393-871568777b0f.yaml
 ./poc/other/download_monitor-657b1b7b-eac2-4935-a50f-0849c4e96b16.yaml
 ./poc/other/download_monitor-6aa0dfdf-95b0-48a2-8281-1872b99b87d6.yaml
