@@ -1067,6 +1067,7 @@
 ./poc/api/api_endpoints_1.yaml
 ./poc/api/api_endpoints_2.yaml
 ./poc/api/api_manager_2.yaml
+./poc/api/apicona-c55d3625-89cf-4d39-ad7b-59378826161d.yaml
 ./poc/api/apiendpoint.yaml
 ./poc/api/apigee-panel.yaml
 ./poc/api/apigee-panel_1_1.yaml
@@ -5332,6 +5333,7 @@
 ./poc/auth/password_policy_manager-66ac51f9-3571-4e07-a110-afec43abab37.yaml
 ./poc/auth/password_policy_manager-adeb4e0b-13fe-4f80-9b24-62bf2a057ead.yaml
 ./poc/auth/password_protect_page-41299927-2ed9-4cbe-b2b0-f306dc0e4a58.yaml
+./poc/auth/password_protect_page-ac6f78a9-8fb0-4ea0-b02e-a0748723dca8.yaml
 ./poc/auth/password_protect_page-c0f899c6-cce2-4534-9b97-3783648cba09.yaml
 ./poc/auth/password_protect_page-d9ac0d84-dff4-4a03-a530-cac47ffaf2bb.yaml
 ./poc/auth/password_protect_page-f9b392cb-04f9-475e-bfe3-d6086f2b5885.yaml
@@ -47819,7 +47821,6 @@
 ./poc/cve/CVE-2022-29454_1.yaml
 ./poc/cve/CVE-2022-29455-4c2ca8b4d5c0b4fc0a6519695b143ca1_3.yaml
 ./poc/cve/CVE-2022-29455-elementor-f7f08d0a-b3ac-4363-ba6e-91a8e13605ca.yaml
-./poc/cve/CVE-2022-29455-headless.yaml
 ./poc/cve/CVE-2022-29455-headless_1.yaml
 ./poc/cve/CVE-2022-29455-headless_2.yaml
 ./poc/cve/CVE-2022-29455-headless_3.yaml
@@ -128316,6 +128317,7 @@
 ./poc/cve/CVE-2026-1404-ultimate_member-ba62b804-f101-4e29-8304-fb2b7dad333c.yaml
 ./poc/cve/CVE-2026-1405-slider_future-34b52ca2-c05f-49b7-846f-a67136d7d379.yaml
 ./poc/cve/CVE-2026-1426-woocommerce_ajax_filters-29e76d57-217f-4f21-8bc6-a86290783a19.yaml
+./poc/cve/CVE-2026-1430-wp_lightbox_2-6ce24fa7-b265-4689-94b3-7df62c7074c2.yaml
 ./poc/cve/CVE-2026-1431-booking-0bd92f91-d9b1-4f6f-ac1a-477950ea2e80.yaml
 ./poc/cve/CVE-2026-1447-mail_mint-e67ae204-2848-4389-a78d-7b3798e4ee54.yaml
 ./poc/cve/CVE-2026-1454-lead_form_builder-f5863132-90a7-414f-abcb-e8b6a9d229c5.yaml
@@ -128739,9 +128741,12 @@
 ./poc/cve/CVE-2026-2385-the_plus_addons_for_elementor_page_builder-9176535c-8e37-4a18-b458-a71c4a84daa4.yaml
 ./poc/cve/CVE-2026-2386-the_plus_addons_for_elementor_page_builder-4fc3e24a-8b51-4b6f-bacf-665ceb03bc05.yaml
 ./poc/cve/CVE-2026-2389-complianz_gdpr-bb9aedc6-42ef-4fd9-a9d5-2a79214be472.yaml
+./poc/cve/CVE-2026-23971-woodmart-8923d9c9-7af6-4109-9c39-b5faee57f8e1.yaml
+./poc/cve/CVE-2026-23972-booking_and_rental_manager_for_woocommerce-501be94e-c01a-43bd-b079-c11e60969def.yaml
 ./poc/cve/CVE-2026-23974-golo-e5c99252-ca42-4c93-8f24-c39326f26983.yaml
 ./poc/cve/CVE-2026-23975-golo-ca4e2fa0-9b18-4318-b588-33d5bc3c5ab9.yaml
 ./poc/cve/CVE-2026-23976-modula_best_grid_gallery-0e5c0e0e-9851-4d28-a87b-b55fc7f76e0b.yaml
+./poc/cve/CVE-2026-23977-support_ticket_system_for_woocommerce-82268ef9-6468-43a5-8578-86c8aec51f2c.yaml
 ./poc/cve/CVE-2026-23978-gyan_elements-9909b7e3-4c6b-478e-8775-99779b21b0c1.yaml
 ./poc/cve/CVE-2026-23979-gyan_elements-c4ece408-a370-4848-9705-3f8d3de8ca03.yaml
 ./poc/cve/CVE-2026-2410-disable_admin_notices-b3011679-51e8-4a13-8364-1d0723656d08.yaml
@@ -128775,6 +128780,7 @@
 ./poc/cve/CVE-2026-24366-yith_woocommerce_request_a_quote-bb7deb6b-d601-47c8-a27c-bf0348b8a807.yaml
 ./poc/cve/CVE-2026-24367-traveler-fc56aeb0-eba1-4196-aac9-e5723674cd1a.yaml
 ./poc/cve/CVE-2026-24368-the_grid-7448e2bd-07f2-49fe-b094-9d55ea7cbe35.yaml
+./poc/cve/CVE-2026-24369-the_grid-7dc65c3e-b55f-416a-8315-36a3d9483154.yaml
 ./poc/cve/CVE-2026-24370-the_grid-beeb129e-1838-4f2b-b936-06f7c26ee587.yaml
 ./poc/cve/CVE-2026-24371-ba_book_everything-805b070e-0575-42d8-8e16-b2467afe8ebc.yaml
 ./poc/cve/CVE-2026-24372-subscriptions_for_woocommerce-261d6d44-8e3b-4715-96c0-1c42d08662fa.yaml
@@ -128980,6 +128986,8 @@
 ./poc/cve/CVE-2026-25014-enteraddons-aee587cf-83c6-46ab-89a2-20d7e76e1e8b.yaml
 ./poc/cve/CVE-2026-25015-userswp-313b5634-20c6-4666-be96-ce59fa4366ac.yaml
 ./poc/cve/CVE-2026-25016-nelio_popups-46db2123-d33a-4093-8254-32ff8ff347a3.yaml
+./poc/cve/CVE-2026-25017-naturalife_extensions-48285f43-3ee2-4b6b-a12d-ac96618da7b8.yaml
+./poc/cve/CVE-2026-25018-naturalife_extensions-f2b4f946-036d-4136-81b8-a8cd2a68e097.yaml
 ./poc/cve/CVE-2026-25019-atarim_visual_collaboration-47b0a994-0460-44fb-bebd-d09efc69a8f3.yaml
 ./poc/cve/CVE-2026-2502-xmlrpc_attacks_blocker-059f0c64-efcc-4b79-81eb-b4ae9e3e2826.yaml
 ./poc/cve/CVE-2026-25020-wp_sync_for_notion-bb1fe70b-80f8-408f-8f4b-4eca57c6ade8.yaml
@@ -128988,10 +128996,17 @@
 ./poc/cve/CVE-2026-25023-contest_code_checker-48a6fe41-675a-4033-877b-77e6cd906f73.yaml
 ./poc/cve/CVE-2026-25024-thirstyaffiliates-35499ef6-c36b-4c5b-9cca-e7aaeec3a5e3.yaml
 ./poc/cve/CVE-2026-25025-vikrestaurants-3c6841e7-fddf-45b1-9d18-00911325b1d3.yaml
+./poc/cve/CVE-2026-25026-tlp_team-613da6f3-3bc1-43f6-a565-bff1d6bc9b74.yaml
 ./poc/cve/CVE-2026-25027-unicamp-55b75c83-2b1d-4870-b5df-74ba50102d2e.yaml
 ./poc/cve/CVE-2026-25028-elementinvader_addons_for_elementor-75cc5088-9376-4b9a-bc1e-83269e9652fa.yaml
+./poc/cve/CVE-2026-25029-kidz-1f21f3b1-920b-415b-bd93-27eb2be5de19.yaml
 ./poc/cve/CVE-2026-2503-element_camp-cfb09dcd-f8ec-4b0a-ae77-4b4b7b54c93b.yaml
+./poc/cve/CVE-2026-25030-goldish-213aa9cf-5d3b-485a-997d-583a46053b4f.yaml
+./poc/cve/CVE-2026-25031-tastydaily-773c20a3-d1db-4e1c-a3d9-c3a544e81f56.yaml
+./poc/cve/CVE-2026-25032-ricky-e1ac8af3-bd42-4d58-b70b-b67e66a632ea.yaml
 ./poc/cve/CVE-2026-25033-motta_addons-c2005b0a-4305-4eb0-ad4d-432c7c3ce3f6.yaml
+./poc/cve/CVE-2026-25034-kivicare_clinic_management_system-9b19240c-d143-4360-9696-47358983178f.yaml
+./poc/cve/CVE-2026-25035-contest_gallery-07f16cf7-94ad-4203-9d71-8e6e349d8c89.yaml
 ./poc/cve/CVE-2026-25036-content_protector-b08ebc3b-ee89-4a4d-8a4c-8513e13b32b6.yaml
 ./poc/cve/CVE-2026-2504-dealia_request_a_quote-c8f506ef-972c-403d-9167-ffdd93be8ea6.yaml
 ./poc/cve/CVE-2026-2506-cost_calculator-1eef338a-ccc7-41a2-b87a-0945e39380d2.yaml
@@ -129003,9 +129018,15 @@
 ./poc/cve/CVE-2026-25312-eventprime_event_calendar_management-c603bd67-2e14-45ed-bbff-1bcbd3c18425.yaml
 ./poc/cve/CVE-2026-25317-woocommerce_delivery_notes-c2397cdc-48ae-468c-b3e5-6229454004cb.yaml
 ./poc/cve/CVE-2026-25326-cmsmasters_content_composer-00d8e7db-b1a4-4785-ba57-1dce0fd11dec.yaml
+./poc/cve/CVE-2026-25327-restaurant_reservations-1a657a1d-3b01-444c-af4e-c9ebebfbc01a.yaml
 ./poc/cve/CVE-2026-25331-wp_security_audit_log-1144ed12-57bd-4f80-9df8-0aee1fcf6343.yaml
+./poc/cve/CVE-2026-25334-salon_booking_plugin_pro-1c220091-4094-4f72-aaf1-a426f07aef5b.yaml
+./poc/cve/CVE-2026-25339-wpforms_lite-b8b07ce8-d6ee-4ede-8394-4aae24c610b2.yaml
+./poc/cve/CVE-2026-25340-noo_jobmonster-3b712d05-3369-41b6-9e68-8f2a8c5b477b.yaml
 ./poc/cve/CVE-2026-25341-rsfirewall-56e6c5c3-fa8b-4ec6-b1aa-88a0f63c5eab.yaml
+./poc/cve/CVE-2026-25342-kute_boutique-8e15d347-8cdb-4988-a68b-eb2f713ae69f.yaml
 ./poc/cve/CVE-2026-25343-wp_sms-94c3fb5a-c6bb-447f-9b37-0eadaccbf374.yaml
+./poc/cve/CVE-2026-25344-review_schema-05379fe4-4924-4978-ad3f-a6208eee9d81.yaml
 ./poc/cve/CVE-2026-25346-faq_builder_ays-a80007be-fb94-4460-91e8-f09b537580ca.yaml
 ./poc/cve/CVE-2026-25347-wp_rest_cache-3a6242ab-eec1-4e3d-bd02-25381cd363b6.yaml
 ./poc/cve/CVE-2026-25348-alttext_ai-9d7ea5b7-a4d5-4d1d-943e-3ba9635f24a1.yaml
@@ -129014,6 +129035,9 @@
 ./poc/cve/CVE-2026-25351-mymedi-f8b178ed-994b-4b2c-85b5-dada1059c600.yaml
 ./poc/cve/CVE-2026-25352-mydecor-4edd7624-aa1e-49a5-a8c4-c15baea7bc3c.yaml
 ./poc/cve/CVE-2026-25353-nooni-b08b8a3a-3acd-41e7-b6e4-aa8c61a5f80c.yaml
+./poc/cve/CVE-2026-25355-sanzo-94ca4814-d55c-4756-b4cf-2619a6fd0999.yaml
+./poc/cve/CVE-2026-25357-indeed_membership_pro-bdeb5494-3239-417c-86dc-488e35f1b7f9.yaml
+./poc/cve/CVE-2026-25358-meloo-93224641-2079-4eb5-bf8f-82298d9d5ef6.yaml
 ./poc/cve/CVE-2026-25359-pendulum-ff904d2a-5be1-4a17-ac95-b0099eb616f6.yaml
 ./poc/cve/CVE-2026-25360-vex-99e34600-7eba-473f-91c0-82e45a48c419.yaml
 ./poc/cve/CVE-2026-25361-mage_eventpress-38db25f7-e2d4-460a-9305-cf952d4b4991.yaml
@@ -129027,8 +129051,11 @@
 ./poc/cve/CVE-2026-25370-wp_compress_image_optimizer-b8aa8208-e897-4c08-9253-76bbe159bee8.yaml
 ./poc/cve/CVE-2026-25371-lumise-3ad075f5-189d-42c4-88d5-67aab321dfb6.yaml
 ./poc/cve/CVE-2026-25372-academy-0630956f-4add-45a7-95ae-657c90b6c2b7.yaml
+./poc/cve/CVE-2026-25373-vayvo_progression-e9c68edb-99ad-4103-aff5-48abcf5c4392.yaml
 ./poc/cve/CVE-2026-25374-spa_and_salon-1befba2d-cd16-48d1-8499-d848a649cf9d.yaml
 ./poc/cve/CVE-2026-25375-final_tiles_grid_gallery_lite-72af8a37-f6c0-4353-ab27-1b671158ef5a.yaml
+./poc/cve/CVE-2026-25376-addon_jobsearch_chat-94f6b24e-2c53-45c7-a19a-c37486838183.yaml
+./poc/cve/CVE-2026-25377-addon_jobsearch_chat-0f4c9abb-d42d-4f59-8364-f1fb4d06ffbc.yaml
 ./poc/cve/CVE-2026-25378-nelio_ab_testing-558b27a3-548b-4df3-84aa-24331394f2fe.yaml
 ./poc/cve/CVE-2026-25379-streamvid-6849ae28-4918-4726-a139-7c3f8395e59d.yaml
 ./poc/cve/CVE-2026-25380-feedy-4a689b45-b29e-4807-9146-c900332f5946.yaml
@@ -129047,13 +129074,17 @@
 ./poc/cve/CVE-2026-25394-fitness_fse-f5a5ba98-5fe2-48d6-b1fa-22cb6da1cbed.yaml
 ./poc/cve/CVE-2026-25395-business_roy-621f85da-8688-46ab-ac32-56036bddf674.yaml
 ./poc/cve/CVE-2026-25396-commerce_coinbase_for_woocommerce-6dadad7d-0ea9-4ac0-8d22-0acaa3fb5881.yaml
+./poc/cve/CVE-2026-25398-addons_for_elementor_builder-d04e87f3-351c-4352-a6f1-69c652baa992.yaml
 ./poc/cve/CVE-2026-25399-cryout_serious_slider-73418252-ce07-4872-97ae-c6ea71c2105b.yaml
+./poc/cve/CVE-2026-25400-apicona-c55d3625-89cf-4d39-ad7b-59378826161d.yaml
 ./poc/cve/CVE-2026-25401-wpcargo-ec02bef4-8b0c-4097-aedd-ea1a980d4a70.yaml
+./poc/cve/CVE-2026-25406-tutor_pro-ad4e5243-e41a-4624-b9cd-47ab79637560.yaml
 ./poc/cve/CVE-2026-25407-cookiebot-ea91769f-244c-4b11-a6e3-ea78e60b4e32.yaml
 ./poc/cve/CVE-2026-25408-broken_link_notifier-92b1db98-aa8e-45ab-83c4-495f6390ee17.yaml
 ./poc/cve/CVE-2026-25409-wp_jamstack_deployments-c5f12e55-3608-415a-82ce-34781994111c.yaml
 ./poc/cve/CVE-2026-25410-wp_cors-b0224760-b492-4a00-bdf8-24a8db3ea3df.yaml
 ./poc/cve/CVE-2026-25411-revision_manager_tmc-46901f22-3a43-42a0-8207-cb2280311335.yaml
+./poc/cve/CVE-2026-25414-wpbookit_pro-553f2cd8-9868-4190-91ea-88e03b9ddc3d.yaml
 ./poc/cve/CVE-2026-25416-news_kit_elementor_addons-be964722-2080-4289-a960-a460a8d09c9e.yaml
 ./poc/cve/CVE-2026-25417-profilegrid_user_profiles_groups_and_communities-f6d3c88d-d0a1-4f27-8a9c-df35235b34dc.yaml
 ./poc/cve/CVE-2026-25418-bit_form-aa6874e5-d99d-4d20-aaf7-897fe8f05292.yaml
@@ -129406,6 +129437,9 @@
 ./poc/cve/CVE-2026-32460-ultimate_addons_for_contact_form_7-2be06087-4616-47bb-8a33-3bba97c47cb2.yaml
 ./poc/cve/CVE-2026-32461-really_simple_ssl-68504f49-0b18-4010-97b0-7e7391408d36.yaml
 ./poc/cve/CVE-2026-32462-master_addons-7a8c28d9-f290-4b08-b48c-beb560c63d2f.yaml
+./poc/cve/CVE-2026-32482-ona-efe86e10-c7ac-456b-b324-7e028562ff9f.yaml
+./poc/cve/CVE-2026-32484-weforms-4bc15539-d816-4873-9684-862c7c9fcda7.yaml
+./poc/cve/CVE-2026-32485-wp_user_frontend-a4cf3ab0-7215-43f2-8ad7-c587d3376c26.yaml
 ./poc/cve/CVE-2026-32490-wp_tripadvisor_review_slider-779e7bd1-c02c-4eaa-b85f-3df87baa9783.yaml
 ./poc/cve/CVE-2026-32491-wp_facebook_reviews-b019bd50-eaf3-48f3-a0b3-f730d463ccd2.yaml
 ./poc/cve/CVE-2026-32492-my_tickets-b8f82dad-cba6-484e-8e30-6370ec2ba2d8.yaml
@@ -129413,18 +129447,27 @@
 ./poc/cve/CVE-2026-32494-ays_slider-0cd96a4b-8985-430d-b1b6-4176b6dd0bc1.yaml
 ./poc/cve/CVE-2026-32495-wp_terms_popup-62c80ca5-9007-4916-b4e8-a436dc1cfaf2.yaml
 ./poc/cve/CVE-2026-32496-wp_contact_form_7_spam_blocker-76421c8e-de5f-4469-9a32-09976de873b4.yaml
+./poc/cve/CVE-2026-32497-user_verification-020da86b-63d6-4687-bf2d-ab10fe19e9ce.yaml
 ./poc/cve/CVE-2026-32498-custom_registration_form_builder_with_submission_manager-f6515d70-438b-47b7-a3c4-5b8dc401a40e.yaml
 ./poc/cve/CVE-2026-32499-chatbot-fb1a977f-e5ce-425b-8817-c03b2a660265.yaml
 ./poc/cve/CVE-2026-32500-metamax-e10a58c1-75fb-45ac-bcf3-0c120878dc79.yaml
+./poc/cve/CVE-2026-32501-wp_configurator_pro-075dce39-f06c-4ab3-a1ec-2669f32a81ab.yaml
+./poc/cve/CVE-2026-32502-borgholm_marketing_agency_theme-7acf0035-12c1-4b94-8c46-dfe92cf984d9.yaml
 ./poc/cve/CVE-2026-32503-trendustry-50e6cfc9-840d-4447-a505-49a1a3bb42d2.yaml
 ./poc/cve/CVE-2026-32504-vintwood-f0c69764-d64b-4231-8251-2f289dce69e1.yaml
 ./poc/cve/CVE-2026-32505-kiddy-27e9449a-637f-4ae3-bf48-587dc2f22397.yaml
+./poc/cve/CVE-2026-32506-archicon-98e9c18b-5118-41cf-b6b9-e8c8a62a8f87.yaml
+./poc/cve/CVE-2026-32507-leroux-daded527-bf03-42d0-8e7a-f9eed492a609.yaml
+./poc/cve/CVE-2026-32508-halstein-9048eaa1-159f-4464-89da-fcd80b732f18.yaml
+./poc/cve/CVE-2026-32510-kamperen-06862d82-fc24-4433-bd73-3139c5394be9.yaml
+./poc/cve/CVE-2026-32511-stal-89916f4e-71a2-4e26-9cfb-40f11a101321.yaml
 ./poc/cve/CVE-2026-32512-pelicula_video_production_and_movie_theme-4dd62de7-76c6-40aa-ba0b-e227109a9fcb.yaml
 ./poc/cve/CVE-2026-32513-jquery_archive_list_widget-8ad52e6f-0dbf-459c-badb-86b9036760d7.yaml
 ./poc/cve/CVE-2026-32514-petitioner-fc707604-b2ce-4925-b3aa-eeb850543ca1.yaml
 ./poc/cve/CVE-2026-32515-miraculous-635787ad-6cbd-4144-84f8-30124ac1bf9f.yaml
 ./poc/cve/CVE-2026-32516-miraculouscore-78ac100e-ba2f-4ba6-9125-9cc2d531cc0e.yaml
 ./poc/cve/CVE-2026-32517-contact_manager-eb3817f6-b630-4dfe-90d5-a96673bb8a85.yaml
+./poc/cve/CVE-2026-32518-gaea-2a70ae7b-4b10-454b-8b28-b3d23d939cab.yaml
 ./poc/cve/CVE-2026-32519-bit_smtp-9da38075-2268-4f98-b02c-0c7c34e16d85.yaml
 ./poc/cve/CVE-2026-32520-rewardswp-038deaeb-633f-49de-92d8-e593ceb47b1e.yaml
 ./poc/cve/CVE-2026-32521-wp_custom_admin_interface-f528e0bd-ab4b-4d0b-b133-90bd1312479f.yaml
@@ -129438,7 +129481,9 @@
 ./poc/cve/CVE-2026-32530-creatorlms-a37e2106-1590-4a40-ae68-172d3817b063.yaml
 ./poc/cve/CVE-2026-32531-kunco-fb167b30-bdb8-4a9b-90e4-5fb030be0cf1.yaml
 ./poc/cve/CVE-2026-32532-lead_form_builder-4a18cb4a-8458-4337-843e-c3278028230f.yaml
+./poc/cve/CVE-2026-32533-latepoint-a76a6800-61ae-47e8-9659-47c08535516d.yaml
 ./poc/cve/CVE-2026-32534-js_support_ticket-d57e6739-2cae-4755-8fdf-25b74dac6792.yaml
+./poc/cve/CVE-2026-32535-js_support_ticket-87d684ba-4856-429f-9e4e-baa61c3967e1.yaml
 ./poc/cve/CVE-2026-32536-halfdata_paypal_green_downloads-10c65f72-a115-4340-8ed3-ac1e2ce014d2.yaml
 ./poc/cve/CVE-2026-32537-visual_portfolio-3a4a97f1-f3da-45b4-98c9-f4afd5fa2eb1.yaml
 ./poc/cve/CVE-2026-32538-smtp_mailer-917c70f5-154c-4c49-b06b-109cc0277a1a.yaml
@@ -129450,7 +129495,9 @@
 ./poc/cve/CVE-2026-32544-oopspam_anti_spam-975c02d9-3e70-4e58-a6bb-57d45282459b.yaml
 ./poc/cve/CVE-2026-32545-taboola_pixel-fc06640e-3243-4369-bf1d-fb33f4d76ff7.yaml
 ./poc/cve/CVE-2026-32546-restrict_content-26a7f3e9-de7b-43bd-8bb8-972b0df75324.yaml
+./poc/cve/CVE-2026-32562-password_protect_page-ac6f78a9-8fb0-4ea0-b02e-a0748723dca8.yaml
 ./poc/cve/CVE-2026-32565-contextual_related_posts-5b35a3af-acd4-40e3-9fdd-25e2f046af7b.yaml
+./poc/cve/CVE-2026-32573-nelio_ab_testing-f96d99dc-df3a-4b01-b276-08a85860720e.yaml
 ./poc/cve/CVE-2026-32583-modern_events_calendar-7d23e7f7-d5fa-4c40-b6ad-70e9ee147c5c.yaml
 ./poc/cve/CVE-2026-32586-woocommerce_jetpack-1ec5edef-cd51-4321-91bb-d1bfce58cd45.yaml
 ./poc/cve/CVE-2026-32587-wp_easy_pay-56b4b819-55d9-4523-96ef-e2a4ac7ecec9.yaml
@@ -129474,6 +129521,8 @@
 ./poc/cve/CVE-2026-3474-emailkit-d8c11ebc-5c83-46a2-a8dd-b838cd50ddc6.yaml
 ./poc/cve/CVE-2026-3475-instant_popup_builder-979962e3-9052-4dc9-94d0-3ec8de3d5460.yaml
 ./poc/cve/CVE-2026-3478-content_syndication_toolkit-f8381866-d991-4638-ab4d-3b8697acf414.yaml
+./poc/cve/CVE-2026-34887-kubio-189090a0-26fd-4a0e-b663-24d28266b56b.yaml
+./poc/cve/CVE-2026-34890-mstw_league_manager-68c16098-c01a-4023-972a-d0bc0468a973.yaml
 ./poc/cve/CVE-2026-3492-gravityforms-a4d16ccd-149a-4f70-84b4-59429827baa5.yaml
 ./poc/cve/CVE-2026-3496-jet_booking-35e33e30-e102-445a-99d0-27adb7fc4638.yaml
 ./poc/cve/CVE-2026-3506-wp_chatbot-32cce973-bc3b-45f1-ad4d-ff395d3a6c8e.yaml
@@ -129547,6 +129596,7 @@
 ./poc/cve/CVE-2026-4331-blog2social-7dc46bc4-ecfb-438f-b951-7b957489cd96.yaml
 ./poc/cve/CVE-2026-4335-shortpixel_image_optimiser-a156234f-2644-4d17-aaa5-4f088cf48f73.yaml
 ./poc/cve/CVE-2026-4347-mw_wp_form-194ee4a0-87c3-42e5-9676-8dd355838b78.yaml
+./poc/cve/CVE-2026-4350-perfmatters-58b9dab8-8539-4b53-b08d-f6ee3e1e744c.yaml
 ./poc/cve/CVE-2026-4373-jetformbuilder-1801fd3e-d56f-4540-9700-9e9de8b465e1.yaml
 ./poc/cve/CVE-2026-4389-dsgvo_leaflet_map-dfeaff92-165a-4006-8e52-a99ae6b68dd9.yaml
 ./poc/cve/CVE-2026-4484-learning_management_system-265be0af-66a4-4636-ab81-f8e2c5a1282e.yaml
@@ -146306,6 +146356,7 @@
 ./poc/javascript/js_support_ticket-6afbdac4-e52a-4ad3-a99a-2d75e698e0fc.yaml
 ./poc/javascript/js_support_ticket-74403688-06a0-453f-ac44-bd731c389892.yaml
 ./poc/javascript/js_support_ticket-7a3e89cc-56cb-42d7-b4f6-bfc7ca0e03e6.yaml
+./poc/javascript/js_support_ticket-87d684ba-4856-429f-9e4e-baa61c3967e1.yaml
 ./poc/javascript/js_support_ticket-89f6f1cd-91ab-416b-b76b-162b3b29d752.yaml
 ./poc/javascript/js_support_ticket-8ea7b7b5-ba3a-4d9c-9a63-ed9f645c6b1b.yaml
 ./poc/javascript/js_support_ticket-962af7eb-b2eb-4190-bf0d-cb05cb28f10b.yaml
@@ -149700,6 +149751,7 @@
 ./poc/microsoft/mstoreapp_mobile_app-c959fac5-d881-403d-85e0-edf4cb1be02e.yaml
 ./poc/microsoft/mstw_csv_exporter-9fec8d09-6114-49cc-a2fe-7c7b09d13237.yaml
 ./poc/microsoft/mstw_league_manager-0ea9e69c-8a8e-41ab-99e7-f47d89ae0467.yaml
+./poc/microsoft/mstw_league_manager-68c16098-c01a-4023-972a-d0bc0468a973.yaml
 ./poc/microsoft/msvod-mediamanager.yaml
 ./poc/microsoft/msvod-mediamanager_2.yaml
 ./poc/microsoft/msync-1f37ed0e-3e03-4f00-9967-16047beab1cf.yaml
@@ -150472,6 +150524,7 @@
 ./poc/microsoft/weforms-1357296a698dabd7fa4495aed69ea9e6_2.yaml
 ./poc/microsoft/weforms-36ee106e59d523f1d862cb2ffa9da61e_2.yaml
 ./poc/microsoft/weforms-379a5016-3968-4b28-8d6e-0f517e419016.yaml
+./poc/microsoft/weforms-4bc15539-d816-4873-9684-862c7c9fcda7.yaml
 ./poc/microsoft/weforms-53bffb82-b9df-40a0-947b-ecae512f363a.yaml
 ./poc/microsoft/weforms-5c71dc22-0b1b-4628-bbab-4154714e8804.yaml
 ./poc/microsoft/weforms-7112261eee96a84e581c546530dce4ae_1.yaml
@@ -168144,6 +168197,7 @@
 ./poc/other/addons_for_elementor-d3c2e5fe-cc02-479e-9f33-e1a783088596.yaml
 ./poc/other/addons_for_elementor-d9d37248-d024-4465-a1e6-d8f2d3a2e02f.yaml
 ./poc/other/addons_for_elementor-e28b78c3-c370-4076-836e-9f61acba064c.yaml
+./poc/other/addons_for_elementor_builder-d04e87f3-351c-4352-a6f1-69c652baa992.yaml
 ./poc/other/addons_for_elementor_builder-e1b45007-6679-42a4-9d40-1f4630a059f0.yaml
 ./poc/other/addons_for_visual_composer-2c07b5c8-7fae-499d-9f6c-9392166f74b8.yaml
 ./poc/other/addons_for_visual_composer-2d581a38-736a-497f-aaf7-6da0b2421618.yaml
@@ -171492,6 +171546,7 @@
 ./poc/other/arcgis-services_3_2.yaml
 ./poc/other/arcgis-services_4_2.yaml
 ./poc/other/archer-ax21.yaml
+./poc/other/archicon-98e9c18b-5118-41cf-b6b9-e8c8a62a8f87.yaml
 ./poc/other/architecturer-b3ff4379-81f6-4c58-8658-2bd2a26883d1.yaml
 ./poc/other/archive-of-our-own-account.yaml
 ./poc/other/archive_page-45cd04bb-d3a0-48af-97ac-c5d668d665df.yaml
@@ -176038,6 +176093,7 @@
 ./poc/other/borderless_1_3.yaml
 ./poc/other/borderless_2_3.yaml
 ./poc/other/borderless_4.yaml
+./poc/other/borgholm_marketing_agency_theme-7acf0035-12c1-4b94-8c46-dfe92cf984d9.yaml
 ./poc/other/bossmail.yaml
 ./poc/other/bossmail_1.yaml
 ./poc/other/botnet-attack-blocker-37854fb6ed592ed4a0ab97a6f5225f4a_1.yaml
@@ -182242,6 +182298,7 @@
 ./poc/other/contest_code_checker-1b68ff1e-ef79-4c11-a73c-591177d8dffe.yaml
 ./poc/other/contest_code_checker-48a6fe41-675a-4033-877b-77e6cd906f73.yaml
 ./poc/other/contest_code_checker-7abd382d-7cc0-4439-a1ff-6d1c99eeb871.yaml
+./poc/other/contest_gallery-07f16cf7-94ad-4203-9d71-8e6e349d8c89.yaml
 ./poc/other/contest_gallery-0df7f413-2631-46d9-8c0b-d66f05a02c01.yaml
 ./poc/other/contest_gallery-0f835e7c-f921-449d-9ffc-dd0fd141119d.yaml
 ./poc/other/contest_gallery-10e05707-02cb-42de-8399-4556d76b01b3.yaml
@@ -195240,6 +195297,7 @@
 ./poc/other/ga_universal-6e953bc0-a934-43fc-8147-4555dde069cc.yaml
 ./poc/other/gab.yaml
 ./poc/other/gable-be6592b8-d60f-48c3-bda3-8fd69dcf1d0b.yaml
+./poc/other/gaea-2a70ae7b-4b10-454b-8b28-b3d23d939cab.yaml
 ./poc/other/gafgyt-bash-malware.yaml
 ./poc/other/gafgyt-generic-malware.yaml
 ./poc/other/gafgyt-hihi-malware.yaml
@@ -196779,6 +196837,7 @@
 ./poc/other/goldenblatt-0591afc1-58b2-4afb-bd7d-e0707fd1f62f.yaml
 ./poc/other/goldencis-nacp.yaml
 ./poc/other/goldencis-nacp_1.yaml
+./poc/other/goldish-213aa9cf-5d3b-485a-997d-583a46053b4f.yaml
 ./poc/other/goldlib-library.yaml
 ./poc/other/goldlib-library_2.yaml
 ./poc/other/goldstar-bf0871e7-7dc4-4acb-868f-7dc32016582e.yaml
@@ -197798,6 +197857,7 @@
 ./poc/other/halfdata_paypal_green_downloads-10c65f72-a115-4340-8ed3-ac1e2ce014d2.yaml
 ./poc/other/halpes-7f25f001-cbb7-4d73-b37d-47bc1681c690.yaml
 ./poc/other/halpes_1_1.yaml
+./poc/other/halstein-9048eaa1-159f-4464-89da-fcd80b732f18.yaml
 ./poc/other/hamaha.yaml
 ./poc/other/hamburger-icon-menu-lite-2aa42e68050ccc07619d4a5e8d483687_3.yaml
 ./poc/other/hamburger_icon_menu_lite-b0e73380-6eab-47d9-b328-f0eb5c7e763d.yaml
@@ -200690,6 +200750,7 @@
 ./poc/other/indeed_membership_pro-a5341bbd-55bd-41ad-b5d1-d6b56c141277.yaml
 ./poc/other/indeed_membership_pro-ab1cc1ef-d0e0-491d-91a8-eaa0605fc1da.yaml
 ./poc/other/indeed_membership_pro-af2d004f-fa9e-4e26-a1e3-03fb31cb95c4.yaml
+./poc/other/indeed_membership_pro-bdeb5494-3239-417c-86dc-488e35f1b7f9.yaml
 ./poc/other/indegy-sensor-installer.yaml
 ./poc/other/indegy-sensor-installer_1.yaml
 ./poc/other/indegy-sensor-installer_3.yaml
@@ -203119,6 +203180,7 @@
 ./poc/other/kama_thumbnail-c30a4292-228a-483b-a443-0ccb1eca5a16.yaml
 ./poc/other/kamailio-sip-server.yaml
 ./poc/other/kamailio-sip-server_1.yaml
+./poc/other/kamperen-06862d82-fc24-4433-bd73-3139c5394be9.yaml
 ./poc/other/kampyle.yaml
 ./poc/other/kampyle_2.yaml
 ./poc/other/kanban-071b5c32-b6ac-402a-af74-6ecd05279d93.yaml
@@ -203422,6 +203484,7 @@
 ./poc/other/kids_world-8520ae92-0b37-4f7a-afd1-427e1a9a31f1.yaml
 ./poc/other/kidsplanet-40519181-540e-44d4-a9b7-6c8c321b1592.yaml
 ./poc/other/kidsplanet-f18d9e61d419df4839e264d4c6fe850b_3.yaml
+./poc/other/kidz-1f21f3b1-920b-415b-bd93-27eb2be5de19.yaml
 ./poc/other/kik.yaml
 ./poc/other/kik_2.yaml
 ./poc/other/kikfyre-events-calendar-tickets.yaml
@@ -203588,6 +203651,7 @@
 ./poc/other/kivicare_clinic_management_system-88898997-6199-4b33-bd35-70a1a01812ec.yaml
 ./poc/other/kivicare_clinic_management_system-8a5d32fc-41cd-4477-af2d-4a9709b05e72.yaml
 ./poc/other/kivicare_clinic_management_system-8d22448b-aa8e-4775-b7c5-e7bae94a3f6d.yaml
+./poc/other/kivicare_clinic_management_system-9b19240c-d143-4360-9696-47358983178f.yaml
 ./poc/other/kivicare_clinic_management_system-a981e454-32ba-494d-b47f-769a1e544e16.yaml
 ./poc/other/kivicare_clinic_management_system-c0c57743-9fdd-4fc0-9a27-787834b64846.yaml
 ./poc/other/kivicare_clinic_management_system-c7a97aeb-f34c-4997-864b-132bb5ed28e7.yaml
@@ -203877,6 +203941,7 @@
 ./poc/other/kubeview-dashboard_3_3.yaml
 ./poc/other/kubeview-dashboard_6.yaml
 ./poc/other/kubeview_1.yaml
+./poc/other/kubio-189090a0-26fd-4a0e-b663-24d28266b56b.yaml
 ./poc/other/kubio-1f528c89-2b8c-4750-b9eb-47ebd8c1630e.yaml
 ./poc/other/kubio-2fb44c6e-520e-4a9f-9987-8b770feb710d.yaml
 ./poc/other/kubio-51704fed7d533ebecc0f09245cc4c810_3.yaml
@@ -204220,6 +204285,7 @@
 ./poc/other/latepoint-8b379c550d286abbf90d350d6a85a3e0.yaml
 ./poc/other/latepoint-911404ee2c99386f150fb0943c55e3d5.yaml
 ./poc/other/latepoint-9547c6e9-3dfc-442c-900d-111b1528aa5b.yaml
+./poc/other/latepoint-a76a6800-61ae-47e8-9659-47c08535516d.yaml
 ./poc/other/latepoint-b3ae93da-57ee-4966-83af-b8c57f9ad7d9.yaml
 ./poc/other/latepoint-bd240932-ad50-40b3-94c7-6e885f96c5df.yaml
 ./poc/other/latepoint-c05575ef-3140-4340-9b4b-1803a8045ce0.yaml
@@ -204925,6 +204991,7 @@
 ./poc/other/leostream-panel_2.yaml
 ./poc/other/lepus.yaml
 ./poc/other/lepus_2.yaml
+./poc/other/leroux-daded527-bf03-42d0-8e7a-f9eed492a609.yaml
 ./poc/other/less-history_2.yaml
 ./poc/other/lessbuttons-50d724a0-8fd3-415f-89f3-8e720802327c.yaml
 ./poc/other/lessbuttons-c524308092bbac2f87865d6e8cb41469.yaml
@@ -208379,6 +208446,7 @@
 ./poc/other/melipayamak-e76ba53c-1b17-4bc0-b8b8-6a851f47be68.yaml
 ./poc/other/mella-1ab1c745-1a0a-4c6c-af31-63844a2a8ac0.yaml
 ./poc/other/melodyschool-9ae10993-4365-434e-b1e4-b20f2398c2e1.yaml
+./poc/other/meloo-93224641-2079-4eb5-bf8f-82298d9d5ef6.yaml
 ./poc/other/member-access-dfefb6dde9b6d90eb806dee98444807c_1.yaml
 ./poc/other/member-access_1_2.yaml
 ./poc/other/member-approval-0bcca27c3d78649197ee9d7aea439990.yaml
@@ -211061,6 +211129,8 @@
 ./poc/other/natshell-fileRead_2.yaml
 ./poc/other/natshell.yaml
 ./poc/other/natshell_2.yaml
+./poc/other/naturalife_extensions-48285f43-3ee2-4b6b-a12d-ac96618da7b8.yaml
+./poc/other/naturalife_extensions-f2b4f946-036d-4136-81b8-a8cd2a68e097.yaml
 ./poc/other/naturalnews.yaml
 ./poc/other/naturalnews_1.yaml
 ./poc/other/naturemag-lite-66ba1859ab560343222a23f4bdd2510b_2.yaml
@@ -211223,6 +211293,7 @@
 ./poc/other/nelio_ab_testing-6077a093-b2ec-4491-a4a7-d70b2858d772.yaml
 ./poc/other/nelio_ab_testing-a65e820d-afb7-4e1c-b690-5948447af59a.yaml
 ./poc/other/nelio_ab_testing-d09985e9-ee18-41a0-94d0-05dd80a68ed9.yaml
+./poc/other/nelio_ab_testing-f96d99dc-df3a-4b01-b276-08a85860720e.yaml
 ./poc/other/nelio_content-42cd1d08-4d5a-466b-930c-f4e28ae4d52c.yaml
 ./poc/other/nelio_content-cc6b521b-32a4-40a2-bb4e-c0c7642693c9.yaml
 ./poc/other/nelio_popups-cb3b8461-280e-41a3-bc26-32ef3897f184.yaml
@@ -212496,6 +212567,7 @@
 ./poc/other/noo_jobmonster-167436b7-3d2b-46fc-a1bc-2bcfd899182e.yaml
 ./poc/other/noo_jobmonster-324e3762-a55c-4693-9621-a228f5943837.yaml
 ./poc/other/noo_jobmonster-38398f29-1bd7-4f15-9d7e-7ad52264f5c7.yaml
+./poc/other/noo_jobmonster-3b712d05-3369-41b6-9e68-8f2a8c5b477b.yaml
 ./poc/other/noo_jobmonster-4d7f94b4-8d8a-496a-bc59-aa0619175fa2.yaml
 ./poc/other/noo_jobmonster-6fa4aa8d-d7f1-4e91-bb2c-c9f80a4bb216.yaml
 ./poc/other/noo_jobmonster-8a096e35-4480-4950-96ea-02a8751b8e98.yaml
@@ -213203,6 +213275,7 @@
 ./poc/other/omnishop-f839007f36470b33d6df8e8ea3538651_3.yaml
 ./poc/other/omplag-1bdae07c-cb80-4566-9b90-7b144c6ceeb0.yaml
 ./poc/other/on-premises_installation_2.yaml
+./poc/other/ona-efe86e10-c7ac-456b-b324-7e028562ff9f.yaml
 ./poc/other/onair2-9228f35e5229f128df4807604aab3c64.yaml
 ./poc/other/onair2-93b5552e-bb24-4dfb-a779-8451f619ff50.yaml
 ./poc/other/onair2_1.yaml
@@ -215405,6 +215478,7 @@
 ./poc/other/perfect_survey-e9388404-40b9-4d2c-b009-0417ff48e74c.yaml
 ./poc/other/perfmatters-2f2b816bf39ceb190616ff4ae3f29aa2_3.yaml
 ./poc/other/perfmatters-4aa294f378c750ff511ca70be15707ba_1.yaml
+./poc/other/perfmatters-58b9dab8-8539-4b53-b08d-f6ee3e1e744c.yaml
 ./poc/other/perfmatters-612fb73f-e488-453f-a2a4-32969f91122b.yaml
 ./poc/other/perfmatters-b078e446-61e7-4ce1-b9a9-480ccc388c72.yaml
 ./poc/other/perfmatters-c143258f30adc624cb892365ee3ccea4_3.yaml
@@ -222006,6 +222080,7 @@
 ./poc/other/restaurant_cafe_addon_for_elementor-ad003d57-a573-473e-80a9-5bf60d42a707.yaml
 ./poc/other/restaurant_pickup_delivery_dine_in-936803ab-93d5-4808-8758-6b8f7c01b3c2.yaml
 ./poc/other/restaurant_reservations-1889c1ba-f49f-474c-8d0a-0ae46fb92deb.yaml
+./poc/other/restaurant_reservations-1a657a1d-3b01-444c-af4e-c9ebebfbc01a.yaml
 ./poc/other/restaurant_reservations-62a79a8e-905c-4bed-b24d-84e56d7bb850.yaml
 ./poc/other/restaurant_reservations-6d420e73-24d5-4da8-8257-e0c7f0273031.yaml
 ./poc/other/restaurant_reservations-92a35989-2b71-4eca-aae0-c8ea0d60ce40.yaml
@@ -222226,6 +222301,7 @@
 ./poc/other/review_engine-3fda31fa-efc9-44b9-99ba-9e3e23aa2ee0.yaml
 ./poc/other/review_manager-ca35aa09-c805-49c8-81fb-c0003ea2c197.yaml
 ./poc/other/review_map_by_revukangaroo-d632bc58-f441-48fb-848c-40b22d3aa562.yaml
+./poc/other/review_schema-05379fe4-4924-4978-ad3f-a6208eee9d81.yaml
 ./poc/other/review_schema-9b4de243-d337-4f29-a766-bcafb3848d1c.yaml
 ./poc/other/review_schema-b7039206-a25a-4aa0-87e2-be11dd1f12eb.yaml
 ./poc/other/review_stream-1b645d0e-daee-4926-af47-05cacf811fbf.yaml
@@ -222457,6 +222533,7 @@
 ./poc/other/richinfo-richmail.yaml
 ./poc/other/richtexteditor-af99651a-2975-4985-a7de-bdd8ab0d92d0.yaml
 ./poc/other/richtexteditor-cdc7d0c4aadd74e4ff41a8ac95a644a9_1.yaml
+./poc/other/ricky-e1ac8af3-bd42-4d58-b70b-b67e66a632ea.yaml
 ./poc/other/ricoh-workflow.yaml
 ./poc/other/ricoh-workflow_1.yaml
 ./poc/other/riello-netman204-panel.yaml
@@ -223570,6 +223647,7 @@
 ./poc/other/salon-booking-system_2.yaml
 ./poc/other/salon24.yaml
 ./poc/other/salon24_3.yaml
+./poc/other/salon_booking_plugin_pro-1c220091-4094-4f72-aaf1-a426f07aef5b.yaml
 ./poc/other/salon_booking_plugin_pro_cc-14b323e6-1a21-419f-83cc-74cf07cbb6d4.yaml
 ./poc/other/salon_booking_system-0cac7f96-eb64-427d-9a95-b8bf1c675af0.yaml
 ./poc/other/salon_booking_system-13657ad7-7185-4be2-98e2-aeaf8514ad4d.yaml
@@ -223657,6 +223735,7 @@
 ./poc/other/sanhui-smg-file-read_1_1.yaml
 ./poc/other/sanhui-smg-file-read_3.yaml
 ./poc/other/sante_pacs_server_2.yaml
+./poc/other/sanzo-94ca4814-d55c-4756-b4cf-2619a6fd0999.yaml
 ./poc/other/saoshyant-element-50492a91ca856cce5626690c879345e6_1.yaml
 ./poc/other/saoshyant-element_1_1.yaml
 ./poc/other/saoshyant-page-builder.yaml
@@ -229508,6 +229587,7 @@
 ./poc/other/stagtools_1_3.yaml
 ./poc/other/stagtools_2_3.yaml
 ./poc/other/stagtools_4.yaml
+./poc/other/stal-89916f4e-71a2-4e26-9cfb-40f11a101321.yaml
 ./poc/other/stallion-01924511-f567-4162-b7cd-e9a51df9953e.yaml
 ./poc/other/stampedio-product-reviews-5e7cf20ccbb6b6372f5c9b438ba13056.yaml
 ./poc/other/stampedio-product-reviews-6f2701b2670c34daa280b2cb8dd3b0be_2.yaml
@@ -232436,6 +232516,7 @@
 ./poc/other/the_events_calendar_shortcode-9c0d229d-b80c-4c73-a14e-253f382d87a2.yaml
 ./poc/other/the_events_calendar_shortcode-bb302539-97e7-4b2c-865d-bd81919647ae.yaml
 ./poc/other/the_grid-7448e2bd-07f2-49fe-b094-9d55ea7cbe35.yaml
+./poc/other/the_grid-7dc65c3e-b55f-416a-8315-36a3d9483154.yaml
 ./poc/other/the_grid-beeb129e-1838-4f2b-b936-06f7c26ee587.yaml
 ./poc/other/the_guardian_news_feed-e9065f61-d899-44a3-a43a-3eeeeedaa6f1.yaml
 ./poc/other/the_hackers_diet-1cbd298c-cba3-4986-b44c-a75b005b4340.yaml
@@ -233592,6 +233673,7 @@
 ./poc/other/tlp_portfolio-7c95bbba-6459-420f-a072-3b02c7d58ea0.yaml
 ./poc/other/tlp_team-1dcab187-c26e-43cb-bd6a-ff05041626da.yaml
 ./poc/other/tlp_team-46951d8d-f8f1-4fb5-b02a-1a19edd154e6.yaml
+./poc/other/tlp_team-613da6f3-3bc1-43f6-a565-bff1d6bc9b74.yaml
 ./poc/other/tlp_team-d1813e3a-0c42-4ac6-a3ee-168912dfdc44.yaml
 ./poc/other/tlp_team-e16b8686-a502-4a73-b955-10f2800fd5dc.yaml
 ./poc/other/tlr-2005ksh_3.yaml
@@ -234612,6 +234694,7 @@
 ./poc/other/tutor_pro-942fffb6-2719-4b70-9759-21b2d50002c5.yaml
 ./poc/other/tutor_pro-97fdd2f9-02ad-492c-88d1-1e7bd9c404a5.yaml
 ./poc/other/tutor_pro-aa5c23ed-7239-40e1-a795-1ae8d4c2d6c8.yaml
+./poc/other/tutor_pro-ad4e5243-e41a-4624-b9cd-47ab79637560.yaml
 ./poc/other/tutor_pro-c647beda-cf73-4372-975f-a8c8ed05217f.yaml
 ./poc/other/tutortrac.yaml
 ./poc/other/tuturn-26fa1781-3919-41a4-9954-325bec856688.yaml
@@ -236910,6 +236993,7 @@
 ./poc/other/user_submitted_posts-da848ced-acc4-48bc-8fbe-e90cdd53b3e8.yaml
 ./poc/other/user_sync-6b60777e-6e07-42bd-9364-43367e209227.yaml
 ./poc/other/user_toolkit-805f18e2-9a5a-48cf-81f4-825da4bfd8ef.yaml
+./poc/other/user_verification-020da86b-63d6-4687-bf2d-ab10fe19e9ce.yaml
 ./poc/other/user_verification-8ccb1304-326e-43af-b75d-23874f92ba8b.yaml
 ./poc/other/user_verification-c7e3a8ee-9950-4da4-8450-8b5902b3b876.yaml
 ./poc/other/useragent-spy-6e06788734ccaf9ae4a7ff5001884f5b_3.yaml
@@ -241186,6 +241270,7 @@
 ./poc/other/woodmart-6fc92b8f-6794-461a-b6b6-598de21f5e2d.yaml
 ./poc/other/woodmart-73017e92-d95e-4b9c-a44a-779b498f58b7.yaml
 ./poc/other/woodmart-7eb4c0909b652a0bcb63d9e8b3e2295d.yaml
+./poc/other/woodmart-8923d9c9-7af6-4109-9c39-b5faee57f8e1.yaml
 ./poc/other/woodmart-89516fe93c44ce28b515d4aa9d04b3a4_1.yaml
 ./poc/other/woodmart-8b6b292c64b3b786f7ca5c91d95e7f1d_1.yaml
 ./poc/other/woodmart-98c1363e-b25d-46fc-b6bf-0285a37f748c.yaml
@@ -245186,6 +245271,7 @@
 ./poc/remote_code_execution/booking_and_rental_manager_for_woocommerce-08fe2e28-5b19-4ce6-914a-304fe82a8ee0.yaml
 ./poc/remote_code_execution/booking_and_rental_manager_for_woocommerce-0b738d0a-39e2-46e3-9b62-920599543220.yaml
 ./poc/remote_code_execution/booking_and_rental_manager_for_woocommerce-32207aa7-9298-4c92-98d4-5529b259b381.yaml
+./poc/remote_code_execution/booking_and_rental_manager_for_woocommerce-501be94e-c01a-43bd-b079-c11e60969def.yaml
 ./poc/remote_code_execution/booking_and_rental_manager_for_woocommerce-5de24a9e-0af3-44d7-af0b-06689a3e3bc5.yaml
 ./poc/remote_code_execution/booking_and_rental_manager_for_woocommerce-6e7c629f-e9c6-4254-ba37-46de5206d77d.yaml
 ./poc/remote_code_execution/booking_and_rental_manager_for_woocommerce-747a3efc-c0fb-4b3c-bc17-7b6306b17d4f.yaml
@@ -247759,6 +247845,7 @@
 ./poc/remote_code_execution/super-transactional-emails-for-woocommerce_2_3.yaml
 ./poc/remote_code_execution/super-transactional-emails-for-woocommerce_4.yaml
 ./poc/remote_code_execution/support_ticket_system_for_woocommerce-781b4122-e3a0-465f-936c-4996577a3c40.yaml
+./poc/remote_code_execution/support_ticket_system_for_woocommerce-82268ef9-6468-43a5-8578-86c8aec51f2c.yaml
 ./poc/remote_code_execution/support_ticket_system_for_woocommerce-d40d6228-dacd-4f94-b6a3-a402c4e24554.yaml
 ./poc/remote_code_execution/surbma-magyar-woocommerce-02e38319310d215ee6f7dac7f2227dc8_1.yaml
 ./poc/remote_code_execution/surbma-magyar-woocommerce-d41d8cd98f00b204e9800998ecf8427e.yaml
@@ -250042,6 +250129,8 @@
 ./poc/search/add_search_to_menu-d1123d28-56a7-4bf8-92ce-2749e4676623.yaml
 ./poc/search/add_search_to_menu-d9e3f310-5a5e-4ca8-806d-9a7aacfaf5ed.yaml
 ./poc/search/add_search_to_menu-f2268be8-f9b8-4028-b681-7793b2bd43f8.yaml
+./poc/search/addon_jobsearch_chat-0f4c9abb-d42d-4f59-8364-f1fb4d06ffbc.yaml
+./poc/search/addon_jobsearch_chat-94f6b24e-2c53-45c7-a19a-c37486838183.yaml
 ./poc/search/adif-log-search-widget-1af2f91be51b07a1688261f7d710187f_3.yaml
 ./poc/search/adif-log-search-widget-2b2f26ce0c2527695113ed00837dda36_2.yaml
 ./poc/search/adif-log-search-widget-d41d8cd98f00b204e9800998ecf8427e.yaml
@@ -256825,6 +256914,7 @@
 ./poc/sql/kudos_donations-8af26db8-5cae-45ba-9573-2bc4e885de81.yaml
 ./poc/sql/kumihimo-b171931e0403b17f1a6434900dbe3477.yaml
 ./poc/sql/kunco-fb167b30-bdb8-4a9b-90e4-5fb030be0cf1.yaml
+./poc/sql/kute_boutique-8e15d347-8cdb-4988-a68b-eb2f713ae69f.yaml
 ./poc/sql/kvoucher-39fb0499-9ab4-4a2f-b0db-ece86bcf4d42.yaml
 ./poc/sql/kvoucher-6477bf18cad6c823db485408d49b337b_3.yaml
 ./poc/sql/ladipage-0781a3a1e48fbac6eacad2cf4acf3dbd_3.yaml
@@ -259872,6 +259962,7 @@
 ./poc/sql/tapfiliate-8f9c99adba2ed592488626a1b60fba4e_1.yaml
 ./poc/sql/task-manager-pro-91788bedbd30912a7420b6af67263d76_3.yaml
 ./poc/sql/task-scheduler-fde815a44db1a3ff6a01701ff2ec42be_1.yaml
+./poc/sql/tastydaily-773c20a3-d1db-4e1c-a3d9-c3a544e81f56.yaml
 ./poc/sql/taxonomy-terms-order-23eeb3bbe0aeea6a359203dbb7f779c4_2.yaml
 ./poc/sql/taxonomy-terms-order-b1b21190b446248fbdb06f901aa4690f_3.yaml
 ./poc/sql/taxonomy_switcher-8f7edb22-1441-4cac-9899-cd27dc313870.yaml
@@ -260442,6 +260533,7 @@
 ./poc/sql/vango-3853f4b7-dfac-454c-857d-c5929d4adb36.yaml
 ./poc/sql/vaultpress-85b93d9807429adb406465dab014b074_2.yaml
 ./poc/sql/vayu_blocks-db01bc0a-4508-4fb5-941d-3f1a52528e2b.yaml
+./poc/sql/vayvo_progression-e9c68edb-99ad-4103-aff5-48abcf5c4392.yaml
 ./poc/sql/vc_addons_by_bit14-310b8622-8cc5-4fdb-8f83-b541aad136ee.yaml
 ./poc/sql/vegas_fullscreen_background_slider-1ac6422f-0bb1-4586-adbb-71b04b2a8e63.yaml
 ./poc/sql/verge3d-0dbce573-fced-4c0f-ba1e-2932c166545c.yaml
@@ -263382,6 +263474,8 @@
 ./poc/upload/CVE-2026-0829-nmedia_user_file_uploader-4cbc0dd4-4dea-4890-95d0-9531a669b95d.yaml
 ./poc/upload/CVE-2026-1280-nmedia_user_file_uploader-e739e7d3-756a-4c93-9ca7-f7b9f9657033.yaml
 ./poc/upload/CVE-2026-24625-woo_addon_uploads-f823ad14-754e-4fed-b991-6ee8594c7f86.yaml
+./poc/upload/CVE-2026-25328-products_file_upload_for_woocommerce-2794f688-bea1-462d-815c-4d050025e354.yaml
+./poc/upload/CVE-2026-25397-file_uploader_for_woocommerce-a6258be3-2f9e-476d-84d5-5014818ef3ab.yaml
 ./poc/upload/CVE-2026-3459-drag_and_drop_multiple_file_upload_contact_form_7-3205670c-5c3c-48c3-a34a-6f9c25668258.yaml
 ./poc/upload/Cacti-Weathermap-FileUpload.yaml
 ./poc/upload/Dahua_Video_FileUpload_3.yaml
@@ -263677,6 +263771,7 @@
 ./poc/upload/file-upload.yaml
 ./poc/upload/file_renaming_on_upload-550c3f56-d188-4be1-82cd-db076c09cf61.yaml
 ./poc/upload/file_upload_types-17988a66-5b48-4f57-96f8-74e539bc875e.yaml
+./poc/upload/file_uploader_for_woocommerce-a6258be3-2f9e-476d-84d5-5014818ef3ab.yaml
 ./poc/upload/file_uploader_for_woocommerce-da0f0e1a-bbf8-42a5-b330-b53134488ebd.yaml
 ./poc/upload/filepicker_media_uploader-2777794d-2c0a-4843-bed8-78e607d4e796.yaml
 ./poc/upload/filestack-upload-eef332a3e9a940fc24b6a8b85a58d6b7.yaml
@@ -263986,6 +264081,7 @@
 ./poc/upload/prestashop-blocktestimonial-file-upload_1.yaml
 ./poc/upload/prestashop-cartabandonmentpro-file-upload.yaml
 ./poc/upload/prestashop-cartabandonmentpro-file-upload_1.yaml
+./poc/upload/products_file_upload_for_woocommerce-2794f688-bea1-462d-815c-4d050025e354.yaml
 ./poc/upload/protect-uploads-81a3ee36cf5fa40745f71fe620512d9b_3.yaml
 ./poc/upload/protect-uploads-ca4cac06a618f3b5f77551da95501cb0.yaml
 ./poc/upload/protect-uploads-d41d8cd98f00b204e9800998ecf8427e.yaml
@@ -278489,6 +278585,7 @@
 ./poc/wordpress/wp_conditional_captcha-f093f44e-972c-407a-ab6b-4dd8acda5b95.yaml
 ./poc/wordpress/wp_conference_schedule-39fb0499-9ab4-4a2f-b0db-ece86bcf4d42.yaml
 ./poc/wordpress/wp_config_file_editor-f2ce4a14-5c56-4ca0-9deb-80cd609b71e6.yaml
+./poc/wordpress/wp_configurator_pro-075dce39-f06c-4ab3-a1ec-2669f32a81ab.yaml
 ./poc/wordpress/wp_connect-a08046a5-69ac-430d-af0a-592305543ffb.yaml
 ./poc/wordpress/wp_construction_mode-0c54bbfe-f505-4c93-89fb-1a624bfcfe10.yaml
 ./poc/wordpress/wp_construction_mode-8e4dbf38-e955-4634-9a07-775ea49b0051.yaml
@@ -279554,6 +279651,7 @@
 ./poc/wordpress/wp_levoslideshow-9acdbd48-8d38-4d75-b2b1-c993e25cf92a.yaml
 ./poc/wordpress/wp_levoslideshow-d311aab4-fca8-4e83-83cf-c4b8350d7dd1.yaml
 ./poc/wordpress/wp_lightbox_2-5ef104ae-b67c-4669-adeb-e5397561c0ae.yaml
+./poc/wordpress/wp_lightbox_2-6ce24fa7-b265-4689-94b3-7df62c7074c2.yaml
 ./poc/wordpress/wp_lightbox_2-fab8c244-9767-45ed-a6c8-85f66fa41122.yaml
 ./poc/wordpress/wp_lightbox_2-fe275351-a547-440d-9e8c-c464ed333aa9.yaml
 ./poc/wordpress/wp_lightpop-83009e29-6860-4d0c-954a-8035dc361cdc.yaml
@@ -281159,6 +281257,7 @@
 ./poc/wordpress/wp_user_frontend-8a2186c9-fa27-4d7d-be41-c82711c49334.yaml
 ./poc/wordpress/wp_user_frontend-8e8e967f-f627-4c0c-ac0f-0a66ae25c602.yaml
 ./poc/wordpress/wp_user_frontend-991327f0-8bb9-4fdf-9c2a-b266ead962a3.yaml
+./poc/wordpress/wp_user_frontend-a4cf3ab0-7215-43f2-8ad7-c587d3376c26.yaml
 ./poc/wordpress/wp_user_frontend-b9793793-44d5-4628-a57b-c1254645e648.yaml
 ./poc/wordpress/wp_user_frontend-d2fdd6eb-c848-446c-abad-7d2ea93f5512.yaml
 ./poc/wordpress/wp_user_frontend-e0a278a3-f229-4673-8b3e-5b68f383dcc7.yaml
@@ -281452,6 +281551,7 @@
 ./poc/wordpress/wpbookit-fac81cc0-c6c9-4009-aacb-52adc70c0261.yaml
 ./poc/wordpress/wpbookit-fd730dab6fed69553fea485c262cf009.yaml
 ./poc/wordpress/wpbookit_1.yaml
+./poc/wordpress/wpbookit_pro-553f2cd8-9868-4190-91ea-88e03b9ddc3d.yaml
 ./poc/wordpress/wpbot-pro-4050333dd539750709bfec5e609afefb_2.yaml
 ./poc/wordpress/wpbot-pro-55aa9318cc509ae118d4e65ef5afa829_1.yaml
 ./poc/wordpress/wpbot-pro-c5aa2ea55661995e605a8b3e56610255.yaml
@@ -281956,6 +282056,7 @@
 ./poc/wordpress/wpforms_lite-95de9099-6071-46d8-a7c9-bb2c1caa6b38.yaml
 ./poc/wordpress/wpforms_lite-a2ad2c0d-542e-4b40-91a8-19b27297545e.yaml
 ./poc/wordpress/wpforms_lite-b10303e0-c864-4088-91d1-d38c24094812.yaml
+./poc/wordpress/wpforms_lite-b8b07ce8-d6ee-4ede-8394-4aae24c610b2.yaml
 ./poc/wordpress/wpforms_lite-e1ff2c57-c3b7-4747-9f99-665774dc2054.yaml
 ./poc/wordpress/wpforms_user_registration-93554eb7-2f81-4eb1-809e-6dfe1f5b6196.yaml
 ./poc/wordpress/wpforo-01f4318f-b56b-4a34-987b-05edeee5da69.yaml
