@@ -1,31 +1,31 @@
-id: directorist-c17b03b4-d503-4bee-a1cd-4d66d27f6f9e
+id: metform_pro-a49dd64b-6ae8-49ed-9e8a-e5b73c2acf4b
 
 info:
   name: >
-    Directorist <= 8.6.6 - Unauthenticated Open Redirect
+    MetForm Pro <= 3.9.7 - Unauthenticated Payment Amount Manipulation via 'mf-calculation'
   author: topscoder
   severity: low
   description: >
     
   reference:
     - https://github.com/topscoder/nuclei-wordfence-cve
-    - https://www.wordfence.com/threat-intel/vulnerabilities/id/c17b03b4-d503-4bee-a1cd-4d66d27f6f9e?source=api-scan
+    - https://www.wordfence.com/threat-intel/vulnerabilities/id/a49dd64b-6ae8-49ed-9e8a-e5b73c2acf4b?source=api-scan
   classification:
     cvss-metrics: 
     cvss-score: 
     cve-id: 
   metadata:
-    fofa-query: "wp-content/plugins/directorist/"
-    google-query: inurl:"/wp-content/plugins/directorist/"
-    shodan-query: 'http.html:"wp-content/plugins/directorist/"'
-  tags: cve,wordpress,wp-plugin,directorist,low,candidate
+    fofa-query: "wp-content/plugins/metform-pro/"
+    google-query: inurl:"/wp-content/plugins/metform-pro/"
+    shodan-query: 'http.html:"wp-content/plugins/metform-pro/"'
+  tags: cve,wordpress,wp-plugin,metform-pro,low,candidate
 
 http:
   - method: GET
     redirects: true
     max-redirects: 3
     path:
-      - "{{BaseURL}}/wp-content/plugins/directorist/readme.txt"
+      - "{{BaseURL}}/wp-content/plugins/metform-pro/readme.txt"
 
     extractors:
       - type: regex
@@ -43,9 +43,9 @@ http:
 
       - type: word
         words:
-          - "directorist"
+          - "metform-pro"
         part: body
 
       - type: dsl
         dsl:
-          - compare_versions(version, '<= 8.6.6')
+          - compare_versions(version, '<= 3.9.7')

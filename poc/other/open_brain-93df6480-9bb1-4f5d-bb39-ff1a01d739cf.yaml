@@ -1,31 +1,31 @@
-id: directorist-c17b03b4-d503-4bee-a1cd-4d66d27f6f9e
+id: open_brain-93df6480-9bb1-4f5d-bb39-ff1a01d739cf
 
 info:
   name: >
-    Directorist <= 8.6.6 - Unauthenticated Open Redirect
+    OPEN-BRAIN <= 0.5.0 - Cross-Site Request Forgery
   author: topscoder
-  severity: low
+  severity: medium
   description: >
     
   reference:
     - https://github.com/topscoder/nuclei-wordfence-cve
-    - https://www.wordfence.com/threat-intel/vulnerabilities/id/c17b03b4-d503-4bee-a1cd-4d66d27f6f9e?source=api-scan
+    - https://www.wordfence.com/threat-intel/vulnerabilities/id/93df6480-9bb1-4f5d-bb39-ff1a01d739cf?source=api-scan
   classification:
     cvss-metrics: 
     cvss-score: 
     cve-id: 
   metadata:
-    fofa-query: "wp-content/plugins/directorist/"
-    google-query: inurl:"/wp-content/plugins/directorist/"
-    shodan-query: 'http.html:"wp-content/plugins/directorist/"'
-  tags: cve,wordpress,wp-plugin,directorist,low,candidate
+    fofa-query: "wp-content/plugins/open-brain/"
+    google-query: inurl:"/wp-content/plugins/open-brain/"
+    shodan-query: 'http.html:"wp-content/plugins/open-brain/"'
+  tags: cve,wordpress,wp-plugin,open-brain,medium,candidate
 
 http:
   - method: GET
     redirects: true
     max-redirects: 3
     path:
-      - "{{BaseURL}}/wp-content/plugins/directorist/readme.txt"
+      - "{{BaseURL}}/wp-content/plugins/open-brain/readme.txt"
 
     extractors:
       - type: regex
@@ -43,9 +43,9 @@ http:
 
       - type: word
         words:
-          - "directorist"
+          - "open-brain"
         part: body
 
       - type: dsl
         dsl:
-          - compare_versions(version, '<= 8.6.6')
+          - compare_versions(version, '<= 0.5.0')
