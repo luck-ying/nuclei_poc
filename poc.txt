@@ -71446,6 +71446,7 @@
 ./poc/cve/CVE-2023-36385-ultimate_post-d0c9f4c5-a4f6-4cab-8531-5b88b3f347ea.yaml
 ./poc/cve/CVE-2023-36385.yaml
 ./poc/cve/CVE-2023-36385_1_1.yaml
+./poc/cve/CVE-2023-3643.yaml
 ./poc/cve/CVE-2023-3645-137078eea3d8b8a764571927cfeae9fd_3.yaml
 ./poc/cve/CVE-2023-3645-bit_form-9cb6384a-f9dc-454c-be39-c2c681e57d36.yaml
 ./poc/cve/CVE-2023-3645.yaml
@@ -76477,6 +76478,7 @@
 ./poc/cve/CVE-2023-48022_2.yaml
 ./poc/cve/CVE-2023-48022_3.yaml
 ./poc/cve/CVE-2023-48023-ray_2.yaml
+./poc/cve/CVE-2023-48023.yaml
 ./poc/cve/CVE-2023-48023_1.yaml
 ./poc/cve/CVE-2023-48023_2_2.yaml
 ./poc/cve/CVE-2023-48023_4.yaml
@@ -112203,6 +112205,7 @@
 ./poc/cve/CVE-2024-9642-editor_custom_color_palette-9e7f858c-945c-4d12-a2a6-113449ad890a.yaml
 ./poc/cve/CVE-2024-9642-ff9c910aef99ca31a670bef1becbef30.yaml
 ./poc/cve/CVE-2024-9642_1.yaml
+./poc/cve/CVE-2024-9643.yaml
 ./poc/cve/CVE-2024-9645-54614723c60ed092ea19f3833bcfac8e_3.yaml
 ./poc/cve/CVE-2024-9645-post_grid-3533909d-9c81-4687-9426-187ceae2656e.yaml
 ./poc/cve/CVE-2024-9647-7e123a97b0971ee91cbec517bbcda15d.yaml
@@ -114131,6 +114134,7 @@
 ./poc/cve/CVE-2025-14509-woo_lucky_wheel-9a41bc0e-0ab9-4cee-b3ca-d730c828782c.yaml
 ./poc/cve/CVE-2025-1452-4cd4ea26e776461ee5336efa488071b6.yaml
 ./poc/cve/CVE-2025-1452-favorites-b472ffba-4bb8-4b46-9c6b-e80e286babd5.yaml
+./poc/cve/CVE-2025-14528.yaml
 ./poc/cve/CVE-2025-1453-144e6366c8aff2cd532e47c29228a8e0_3.yaml
 ./poc/cve/CVE-2025-1453-category_posts-20b11bbb-fd27-4c0c-9205-fd2164c39392.yaml
 ./poc/cve/CVE-2025-14533-acf_extended-d44f8af2-3525-4b00-afa8-a908250cc838.yaml
@@ -114344,7 +114348,6 @@
 ./poc/cve/CVE-2025-15487-code_explorer-fad8ad54-56eb-40fa-a357-77b7d656d378.yaml
 ./poc/cve/CVE-2025-15488-responsive_add_ons-a2e2cde5-f5e0-420c-8c0e-27206884eff9.yaml
 ./poc/cve/CVE-2025-15491-post_slides-e8e5f9f1-af2b-4a4f-ae5c-145252cd0ed5.yaml
-./poc/cve/CVE-2025-15503.yaml
 ./poc/cve/CVE-2025-15511-rupantorpay-1b21bdfd-42ec-43fe-b581-04276b86c50b.yaml
 ./poc/cve/CVE-2025-15512-aplazo_payment_gateway-97b327cc-7a72-4cc3-a4db-a693469f6917.yaml
 ./poc/cve/CVE-2025-15513-float_gateway-b2c7fb39-d128-4285-8bc3-1e192e1e1196.yaml
@@ -116564,7 +116567,6 @@
 ./poc/cve/CVE-2025-24001-ppo_call_to_actions-a323ccb8-c461-4203-a590-3785594b90f5.yaml
 ./poc/cve/CVE-2025-24016.yaml
 ./poc/cve/CVE-2025-24016_3.yaml
-./poc/cve/CVE-2025-24354.yaml
 ./poc/cve/CVE-2025-24514.yaml
 ./poc/cve/CVE-2025-24514_1.yaml
 ./poc/cve/CVE-2025-24514_2.yaml
@@ -122788,7 +122790,6 @@
 ./poc/cve/CVE-2025-46543-3b7379386aaa50148a8629092a90c4b6_2.yaml
 ./poc/cve/CVE-2025-46543-enhanced_paypal_shortcodes-dbca4df8-d5d6-40b5-b897-e249a5a3bb00.yaml
 ./poc/cve/CVE-2025-46554_2.yaml
-./poc/cve/CVE-2025-46565.yaml
 ./poc/cve/CVE-2025-4659-ed84e06cfb392fb8b4808de530049c87.yaml
 ./poc/cve/CVE-2025-4666-72f2f608649a510fcb6e2891c9c869c5_2.yaml
 ./poc/cve/CVE-2025-4666-zotpress-1058078b-3afa-4fe7-913a-b6fc32252bf6.yaml
@@ -128934,7 +128935,6 @@
 ./poc/cve/CVE-2026-1487-latepoint-e1bbd339-5eb7-4a62-9c68-bcd76507425c.yaml
 ./poc/cve/CVE-2026-1490-cleantalk_spam_protect-cb603be6-4a12-49e1-b8cc-b2062eb97f16.yaml
 ./poc/cve/CVE-2026-1492-user_registration-7e9fec92-f471-4ce9-9138-1c58ad658da2.yaml
-./poc/cve/CVE-2026-1492.yaml
 ./poc/cve/CVE-2026-1499-local_sync-11bb7190-023b-45e1-99a5-7313c489ef45.yaml
 ./poc/cve/CVE-2026-1508-court_reservation-e8fecebd-c884-4124-96d6-106351e0c7a7.yaml
 ./poc/cve/CVE-2026-1509-fusion_builder-fdc57b06-bae9-49a3-84dd-f593705330e9.yaml
@@ -129097,6 +129097,7 @@
 ./poc/cve/CVE-2026-2126-user_submitted_posts-02c5e3ad-5cc3-40b1-a15a-10d53383abe6.yaml
 ./poc/cve/CVE-2026-2127-so_widgets_bundle-bf92c64b-ca76-4af7-a1e4-585a60b03153.yaml
 ./poc/cve/CVE-2026-21445.yaml
+./poc/cve/CVE-2026-21891.yaml
 ./poc/cve/CVE-2026-2230-booking-60f7df44-22f9-4a9e-a20c-4b8628674079.yaml
 ./poc/cve/CVE-2026-2231-fluent_booking-37441cc0-c43c-40e4-a170-1be59e112272.yaml
 ./poc/cve/CVE-2026-2232-wc_product_table_lite-f2891f3d-9081-4a9f-8408-2373ce1d0306.yaml
@@ -129807,6 +129808,7 @@
 ./poc/cve/CVE-2026-27437-tennis_sportclub-89dbc40a-d2a2-408f-a337-f9b7c14e0a04.yaml
 ./poc/cve/CVE-2026-27438-kingler-b8b8af19-e6d7-425d-896d-ecae63b549e2.yaml
 ./poc/cve/CVE-2026-27439-dentario-f026d837-7c1c-4468-be3f-7728a644af59.yaml
+./poc/cve/CVE-2026-27483.yaml
 ./poc/cve/CVE-2026-27944.yaml
 ./poc/cve/CVE-2026-27984-widget_options-664eb488-649e-4914-bd3c-cb7395893c6f.yaml
 ./poc/cve/CVE-2026-27985-humanum-ee2902be-a9a5-4f9b-a112-e786a46331f7.yaml
@@ -129983,7 +129985,6 @@
 ./poc/cve/CVE-2026-3177-charitable-bc3b2645-7b57-4884-99c5-e37dbd4a9600.yaml
 ./poc/cve/CVE-2026-3178-name_directory-3ebac8bc-1dca-4bcd-a033-fb8ed210bf4e.yaml
 ./poc/cve/CVE-2026-3180-contest_gallery-91d52a64-8dc1-4923-be0b-06800382151e.yaml
-./poc/cve/CVE-2026-31816.yaml
 ./poc/cve/CVE-2026-3191-minify_html_markup-fe14b92b-1784-4083-9b9f-23d7f69a3215.yaml
 ./poc/cve/CVE-2026-31913-scape-93d00b7e-cad1-4521-8acf-94818258a9d9.yaml
 ./poc/cve/CVE-2026-31914-wp_courses-bca16579-d852-4c68-932e-44b69a01b8ce.yaml
@@ -147758,6 +147759,7 @@
 ./poc/javascript/nextjs-rsc-cache_3.yaml
 ./poc/javascript/nextjs.yaml
 ./poc/javascript/nextjs_3.yaml
+./poc/javascript/nodejs-framework-exceptions.yaml
 ./poc/javascript/nodejs-framework-exceptions_1.yaml
 ./poc/javascript/nodejs-framework-exceptions_2.yaml
 ./poc/javascript/nodejs-framework-exceptions_3.yaml
@@ -149842,6 +149844,7 @@
 ./poc/microsoft/CVE-2024-47624-bsk_gravityforms_blacklist-4d4ce8ce-2630-4f8b-9438-38c6b7b0caa9.yaml
 ./poc/microsoft/CVE-2024-47633-zoho_forms-8603d4cd-5e01-4a68-b127-8c99609e0413.yaml
 ./poc/microsoft/CVE-2024-47642-infusionsoft_official_opt_in_forms-a6cee2c1-cdfb-419a-8900-bc9d921d610e.yaml
+./poc/microsoft/CVE-2024-49249-smsa_shipping_official-2ba5c8e6-e3ab-4ba5-9f9d-10f54476ccc3.yaml
 ./poc/microsoft/CVE-2024-49297-zoho_crm_forms-14e9d0a2-a1cb-4d3e-b6df-fba01d476936.yaml
 ./poc/microsoft/CVE-2024-49331-plms-30f791ef-3a97-4f89-b602-b42b726a8f70.yaml
 ./poc/microsoft/CVE-2024-49615-safetymails_forms-58b026c8-ad67-4c77-8770-2b3b87bb2dfd.yaml
@@ -153209,6 +153212,7 @@
 ./poc/microsoft/smsa-shipping-official.yaml
 ./poc/microsoft/smsa-shipping-official_1_2.yaml
 ./poc/microsoft/smsa_shipping_official-29d72347-ba49-45c6-a964-2c75064ac866.yaml
+./poc/microsoft/smsa_shipping_official-2ba5c8e6-e3ab-4ba5-9f9d-10f54476ccc3.yaml
 ./poc/microsoft/smsify-ad1209d7c6326409ba6a9eb7af4aa164_3.yaml
 ./poc/microsoft/smsify-db75aa9d-c21c-4cfd-be5a-11dd00a89845.yaml
 ./poc/microsoft/smsify_1_3.yaml
@@ -175374,7 +175378,6 @@
 ./poc/other/aspect-control-panel_1_3.yaml
 ./poc/other/aspentech-aspen-infoplus21.yaml
 ./poc/other/aspentech-aspen-infoplus21_3.yaml
-./poc/other/aspnet-framework-exceptions.yaml
 ./poc/other/aspnet-framework-exceptions_1.yaml
 ./poc/other/aspnet-framework-exceptions_2.yaml
 ./poc/other/aspnet-framework-exceptions_3.yaml
