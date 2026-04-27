@@ -130622,6 +130622,7 @@
 ./poc/cve/CVE-2026-6675-responsive_block_editor_addons-17452a29-bcef-451a-9893-a436ac5d3b80.yaml
 ./poc/cve/CVE-2026-6703-responsive_block_editor_addons-187b072d-6314-4ac1-a924-b14324b2fd8d.yaml
 ./poc/cve/CVE-2026-6810-booking_calendar_contact_form-a3977d10-239d-4b83-ab0c-ad165485498d.yaml
+./poc/cve/CVE-2026-7106-highland_software_custom_role_manager-80a258a6-634c-4d7d-981f-bcbc0bb044f7.yaml
 ./poc/cve/CVE_2023_51467.yaml
 ./poc/cve/CVE_2023_51467_1_3.yaml
 ./poc/cve/CVE_2023_51467_2_2.yaml
@@ -202680,6 +202681,7 @@
 ./poc/other/high-compress_2.yaml
 ./poc/other/high-compress_4.yaml
 ./poc/other/high_compress-a0f2e2f4-6575-4f00-9417-3b5a19c3de40.yaml
+./poc/other/highland_software_custom_role_manager-80a258a6-634c-4d7d-981f-bcbc0bb044f7.yaml
 ./poc/other/highlight-08e82a51643d6a336c74061f5c22533d_3.yaml
 ./poc/other/highlight-1f5f75a321e22c9910fc6de135cfd13f.yaml
 ./poc/other/highlight-42665ffd-e2fa-4883-9275-5e0b54943d3c.yaml
