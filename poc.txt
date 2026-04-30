@@ -71446,6 +71446,7 @@
 ./poc/cve/CVE-2023-36385-ultimate_post-d0c9f4c5-a4f6-4cab-8531-5b88b3f347ea.yaml
 ./poc/cve/CVE-2023-36385.yaml
 ./poc/cve/CVE-2023-36385_1_1.yaml
+./poc/cve/CVE-2023-3643.yaml
 ./poc/cve/CVE-2023-3645-137078eea3d8b8a764571927cfeae9fd_3.yaml
 ./poc/cve/CVE-2023-3645-bit_form-9cb6384a-f9dc-454c-be39-c2c681e57d36.yaml
 ./poc/cve/CVE-2023-3645.yaml
@@ -111298,7 +111299,6 @@
 ./poc/cve/CVE-2024-8858_1_1.yaml
 ./poc/cve/CVE-2024-8858_3.yaml
 ./poc/cve/CVE-2024-8858_4.yaml
-./poc/cve/CVE-2024-8859.yaml
 ./poc/cve/CVE-2024-8859_1.yaml
 ./poc/cve/CVE-2024-8859_2.yaml
 ./poc/cve/CVE-2024-8859_3.yaml
@@ -114347,7 +114347,6 @@
 ./poc/cve/CVE-2025-15487-code_explorer-fad8ad54-56eb-40fa-a357-77b7d656d378.yaml
 ./poc/cve/CVE-2025-15488-responsive_add_ons-a2e2cde5-f5e0-420c-8c0e-27206884eff9.yaml
 ./poc/cve/CVE-2025-15491-post_slides-e8e5f9f1-af2b-4a4f-ae5c-145252cd0ed5.yaml
-./poc/cve/CVE-2025-15503.yaml
 ./poc/cve/CVE-2025-15511-rupantorpay-1b21bdfd-42ec-43fe-b581-04276b86c50b.yaml
 ./poc/cve/CVE-2025-15512-aplazo_payment_gateway-97b327cc-7a72-4cc3-a4db-a693469f6917.yaml
 ./poc/cve/CVE-2025-15513-float_gateway-b2c7fb39-d128-4285-8bc3-1e192e1e1196.yaml
@@ -116567,7 +116566,6 @@
 ./poc/cve/CVE-2025-24001-ppo_call_to_actions-a323ccb8-c461-4203-a590-3785594b90f5.yaml
 ./poc/cve/CVE-2025-24016.yaml
 ./poc/cve/CVE-2025-24016_3.yaml
-./poc/cve/CVE-2025-24354.yaml
 ./poc/cve/CVE-2025-24514.yaml
 ./poc/cve/CVE-2025-24514_1.yaml
 ./poc/cve/CVE-2025-24514_2.yaml
@@ -122206,6 +122204,7 @@
 ./poc/cve/CVE-2025-40630_1.yaml
 ./poc/cve/CVE-2025-40630_2.yaml
 ./poc/cve/CVE-2025-40630_3.yaml
+./poc/cve/CVE-2025-4078.yaml
 ./poc/cve/CVE-2025-4094-b0dc1f464618d686b4da60aecc002d24_1.yaml
 ./poc/cve/CVE-2025-4094-digits-7ab50032-abc0-4160-b9ad-369da67ef79a.yaml
 ./poc/cve/CVE-2025-4099-list_children-538b4d4b-f8c6-44db-89d2-d345bfbfecb2.yaml
@@ -122791,7 +122790,6 @@
 ./poc/cve/CVE-2025-46543-3b7379386aaa50148a8629092a90c4b6_2.yaml
 ./poc/cve/CVE-2025-46543-enhanced_paypal_shortcodes-dbca4df8-d5d6-40b5-b897-e249a5a3bb00.yaml
 ./poc/cve/CVE-2025-46554_2.yaml
-./poc/cve/CVE-2025-46565.yaml
 ./poc/cve/CVE-2025-4659-ed84e06cfb392fb8b4808de530049c87.yaml
 ./poc/cve/CVE-2025-4666-72f2f608649a510fcb6e2891c9c869c5_2.yaml
 ./poc/cve/CVE-2025-4666-zotpress-1058078b-3afa-4fe7-913a-b6fc32252bf6.yaml
@@ -128782,6 +128780,7 @@
 ./poc/cve/CVE-2026-0746-ai_engine-cbba866d-93dd-4ef5-9670-ab958f61f06e.yaml
 ./poc/cve/CVE-2026-0751-payment_page-0982cc3e-87d7-49d2-afa3-8c18355d7968.yaml
 ./poc/cve/CVE-2026-0753-super_simple_contact_form-e10c0d8d-718d-45dd-9ac3-a2673a6a16af.yaml
+./poc/cve/CVE-2026-0770.yaml
 ./poc/cve/CVE-2026-0800-user_submitted_posts-1ec907bc-bd10-4dc5-be35-4f2aaf5ef444.yaml
 ./poc/cve/CVE-2026-0806-wp_clanwars-65aa20e2-efc1-481a-8ed4-423d2420c3db.yaml
 ./poc/cve/CVE-2026-0807-frontis_blocks-322e0a27-9119-4b46-a043-d3a68c4fcdc4.yaml
@@ -129097,7 +129096,6 @@
 ./poc/cve/CVE-2026-2126-user_submitted_posts-02c5e3ad-5cc3-40b1-a15a-10d53383abe6.yaml
 ./poc/cve/CVE-2026-2127-so_widgets_bundle-bf92c64b-ca76-4af7-a1e4-585a60b03153.yaml
 ./poc/cve/CVE-2026-21445.yaml
-./poc/cve/CVE-2026-21891.yaml
 ./poc/cve/CVE-2026-2230-booking-60f7df44-22f9-4a9e-a20c-4b8628674079.yaml
 ./poc/cve/CVE-2026-2231-fluent_booking-37441cc0-c43c-40e4-a170-1be59e112272.yaml
 ./poc/cve/CVE-2026-2232-wc_product_table_lite-f2891f3d-9081-4a9f-8408-2373ce1d0306.yaml
@@ -129810,6 +129808,7 @@
 ./poc/cve/CVE-2026-27438-kingler-b8b8af19-e6d7-425d-896d-ecae63b549e2.yaml
 ./poc/cve/CVE-2026-27439-dentario-f026d837-7c1c-4468-be3f-7728a644af59.yaml
 ./poc/cve/CVE-2026-27483.yaml
+./poc/cve/CVE-2026-27944.yaml
 ./poc/cve/CVE-2026-27984-widget_options-664eb488-649e-4914-bd3c-cb7395893c6f.yaml
 ./poc/cve/CVE-2026-27985-humanum-ee2902be-a9a5-4f9b-a112-e786a46331f7.yaml
 ./poc/cve/CVE-2026-27986-ostende-c258a198-73bc-4ceb-9ab4-d26c5b6b656d.yaml
@@ -129949,6 +129948,7 @@
 ./poc/cve/CVE-2026-2879-getgenie-8030c334-458a-4d21-9a64-3f5df715ba97.yaml
 ./poc/cve/CVE-2026-2888-formidable-b8be3b6e-a035-4e6f-ba2b-ce9e59ebf2e0.yaml
 ./poc/cve/CVE-2026-2890-formidable-ebb4bc5a-9469-4733-acf3-d2dda5edb7af.yaml
+./poc/cve/CVE-2026-2892-otter_blocks-3443950f-1f94-4e0b-8906-1a9b9602a746.yaml
 ./poc/cve/CVE-2026-2893-page_or_post_clone-85674d8a-96b3-4fae-8bff-900ca78073a4.yaml
 ./poc/cve/CVE-2026-2899-fluentformpro-bb036338-abd7-4061-835d-038b765c68a6.yaml
 ./poc/cve/CVE-2026-2902-wp_meteor-dc92b20a-fb9b-477c-8fe4-68897c1fd07e.yaml
@@ -129986,7 +129986,6 @@
 ./poc/cve/CVE-2026-3177-charitable-bc3b2645-7b57-4884-99c5-e37dbd4a9600.yaml
 ./poc/cve/CVE-2026-3178-name_directory-3ebac8bc-1dca-4bcd-a033-fb8ed210bf4e.yaml
 ./poc/cve/CVE-2026-3180-contest_gallery-91d52a64-8dc1-4923-be0b-06800382151e.yaml
-./poc/cve/CVE-2026-31816.yaml
 ./poc/cve/CVE-2026-3191-minify_html_markup-fe14b92b-1784-4083-9b9f-23d7f69a3215.yaml
 ./poc/cve/CVE-2026-31913-scape-93d00b7e-cad1-4521-8acf-94818258a9d9.yaml
 ./poc/cve/CVE-2026-31914-wp_courses-bca16579-d852-4c68-932e-44b69a01b8ce.yaml
@@ -130624,6 +130623,7 @@
 ./poc/cve/CVE-2026-6443-wp_team_showcase_and_slider-2597724a-9a39-4e46-b153-f42366f833ba.yaml
 ./poc/cve/CVE-2026-6443-wp_testimonial_with_widget-2597724a-9a39-4e46-b153-f42366f833ba.yaml
 ./poc/cve/CVE-2026-6443-wp_trending_post_slider_and_widget-2597724a-9a39-4e46-b153-f42366f833ba.yaml
+./poc/cve/CVE-2026-6498-restaurant_reservations-8ee08aac-7bcc-4809-a5aa-7b95ed736f19.yaml
 ./poc/cve/CVE-2026-6518-cmp_coming_soon_maintenance-d6fb275b-dbba-46df-b170-977ef4a84c4c.yaml
 ./poc/cve/CVE-2026-6551-timeline_blocks-393d1b30-19f8-454d-84c0-0b539953e1fe.yaml
 ./poc/cve/CVE-2026-6675-responsive_block_editor_addons-17452a29-bcef-451a-9893-a436ac5d3b80.yaml
@@ -218938,6 +218938,7 @@
 ./poc/other/otter-pro_1_2.yaml
 ./poc/other/otter_blocks-203950f3-f327-4d9e-afcf-8467aab23712.yaml
 ./poc/other/otter_blocks-217d3148-d411-4fff-a4f6-d5d02ef207af.yaml
+./poc/other/otter_blocks-3443950f-1f94-4e0b-8906-1a9b9602a746.yaml
 ./poc/other/otter_blocks-6147582f-578a-47ad-b16c-65c37896783d.yaml
 ./poc/other/otter_blocks-67981160-6c91-48a4-ba1c-68204d538ed6.yaml
 ./poc/other/otter_blocks-6d43be1d-a6e7-427f-9e13-bd2fe85b3a11.yaml
@@ -227167,6 +227168,7 @@
 ./poc/other/restaurant_reservations-1a657a1d-3b01-444c-af4e-c9ebebfbc01a.yaml
 ./poc/other/restaurant_reservations-62a79a8e-905c-4bed-b24d-84e56d7bb850.yaml
 ./poc/other/restaurant_reservations-6d420e73-24d5-4da8-8257-e0c7f0273031.yaml
+./poc/other/restaurant_reservations-8ee08aac-7bcc-4809-a5aa-7b95ed736f19.yaml
 ./poc/other/restaurant_reservations-92a35989-2b71-4eca-aae0-c8ea0d60ce40.yaml
 ./poc/other/restaurant_reservations-9b0b11bb-5da0-4582-b57c-991f11959e9a.yaml
 ./poc/other/restaurant_reservations-9da6adf9-7219-4766-8cad-b8fff230a5e9.yaml
