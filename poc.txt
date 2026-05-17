@@ -120196,7 +120196,6 @@
 ./poc/cve/CVE-2025-7058-kingcabs-7d75851d-4dd5-4fb4-97bc-fc63575e483e.yaml
 ./poc/cve/CVE-2025-7059-3e164a176ba1f41989b40cca2763aee3_2.yaml
 ./poc/cve/CVE-2025-71243.yaml
-./poc/cve/CVE-2025-71257.yaml
 ./poc/cve/CVE-2025-71258.yaml
 ./poc/cve/CVE-2025-71259.yaml
 ./poc/cve/CVE-2025-7205-8b698bf8b210269bdfc0fbffe3ad125b_1.yaml
@@ -262028,6 +262027,7 @@
 ./poc/sql/CVE-2026-6800-fastbots_ai_chatbots-b861e82a-dbff-491d-8a0a-1bfb9a7798ad.yaml
 ./poc/sql/CVE-2026-6963-wp_mail_gateway-c7caf1f4-a8dd-4016-91eb-2adbeed5290a.yaml
 ./poc/sql/CVE-2026-7252-wp_optimize-cc815ef2-dd02-4faa-b202-dd1552f889db.yaml
+./poc/sql/CVE-2026-8719-ai_engine-0593c20d-3422-4817-9639-614254b609db.yaml
 ./poc/sql/Changdao-165-SQLi_1.yaml
 ./poc/sql/Discuz-V72-SQLi_2.yaml
 ./poc/sql/Discuz-sqli-batch_common_3.yaml
@@ -262495,6 +262495,7 @@
 ./poc/sql/ai-engine-5c65db5bb42db620e3d638f8291c0b86_1.yaml
 ./poc/sql/ai_auto_tool-61e6a0db-0af5-4b26-9d16-5e5663500f56.yaml
 ./poc/sql/ai_co_pilot_for_wp-2cfd4a2c-750e-45db-9bca-8dae4668be53.yaml
+./poc/sql/ai_engine-0593c20d-3422-4817-9639-614254b609db.yaml
 ./poc/sql/ai_engine-0e7654a1-0020-4bf1-86be-bdb238a9fe0d.yaml
 ./poc/sql/ai_engine-513274bc-3016-4adb-be78-b13c5fae9c03.yaml
 ./poc/sql/ai_engine-be39e24f-d7d7-44db-9ffd-a4605de8e577.yaml
