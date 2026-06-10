@@ -1,40 +1,34 @@
+http:
+- extractors:
+  - group: 2
+    part: body
+    regex:
+    - Repetier\-Server ([A-Za-z]+) ([0-9.]+)
+    type: regex
+  matchers:
+  - condition: or
+    part: body
+    type: word
+    words:
+    - content="Repetier-Server
+    - About Repetier-Server
+  - status:
+    - 200
+    type: status
+  matchers-condition: and
+  method: GET
+  path:
+  - '{{BaseURL}}/#!/login'
 id: repetier-server-panel
-
 info:
-  name: Repetier Server Panel - Detect
   author: ritikchaddha
-  severity: info
-  description: |
-    Repetier Server login panel detected.
+  description: 'Repetier Server login panel detected.
+
+    '
   metadata:
-    verified: true
     max-request: 1
     shodan-query: title:"Repetier-Server"
+    verified: true
+  name: Repetier Server Panel - Detect
+  severity: info
   tags: panel,repetier,detect
-
-http:
-  - method: GET
-    path:
-      - "{{BaseURL}}/#!/login"
-
-    matchers-condition: and
-    matchers:
-      - type: word
-        part: body
-        words:
-          - 'content="Repetier-Server'
-          - 'About Repetier-Server'
-        condition: or
-
-      - type: status
-        status:
-          - 200
-
-    extractors:
-      - type: regex
-        part: body
-        group: 2
-        regex:
-          - 'Repetier\-Server ([A-Za-z]+) ([0-9.]+)'
-
-# digest: 4a0a0047304502203324de07e7738ba861559451235e6d0695c7ffb64f4448acf7a89133d5aad94c022100f6c337a11d0671a2af8d12961ba4bbfd86c6283f962f86e200e59ba6618010aa:922c64590222798bb761d5b6d8e72950
