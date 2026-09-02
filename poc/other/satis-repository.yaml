@@ -1,43 +1,39 @@
-id: satis-repository
-
-info:
-  name: Satis Composer Repository - Detect
-  author: FlorianMaak
-  severity: info
-  description: |
-     Satis composer repository was detected
-  reference:
+http:
+- extractors:
+  - part: body
+    regex:
+    - \d+\.\d+\.\d+-dev
+    type: regex
+  matchers:
+  - condition: and
+    part: body
+    type: word
+    words:
+    - This is a private repository
     - https://github.com/composer/satis
+  - status:
+    - 200
+    type: status
+  matchers-condition: and
+  method: GET
+  path:
+  - '{{BaseURL}}'
+id: satis-repository
+info:
+  author: FlorianMaak
   classification:
     cvss-metrics: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:N
-    cvss-score: 0.0
+    cvss-score: 0
     cwe-id: CWE-200
+  description: 'Satis composer repository was detected
+
+    '
   metadata:
     max-request: 1
-    verified: true
     shodan-query: html:"<a href=\"https://github.com/composer/satis\">Satis</a>"
-  tags: exposure,composer,satis
-
-http:
-  - method: GET
-    path:
-      - '{{BaseURL}}'
-
-    matchers-condition: and
-    matchers:
-      - type: word
-        part: body
-        words:
-          - 'This is a private repository'
-          - 'https://github.com/composer/satis'
-        condition: and
-
-      - type: status
-        status:
-          - 200
-
-    extractors:
-      - type: regex
-        part: body
-        regex:
-          - '\d+\.\d+\.\d+-dev'
+    verified: true
+  name: Satis Composer Repository - Detect
+  reference:
+  - https://github.com/composer/satis
+  severity: info
+  tags: panel,exposure,composer,satis

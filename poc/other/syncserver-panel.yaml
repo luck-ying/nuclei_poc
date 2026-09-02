@@ -1,36 +1,35 @@
+http:
+- extractors:
+  - group: 1
+    part: body
+    regex:
+    - Symmetricom SyncServer ([A-Z0-9]+)
+    type: regex
+  matchers:
+  - condition: and
+    part: body
+    type: word
+    words:
+    - Symmetricom SyncServer
+    - login
+  - status:
+    - 200
+    type: status
+  matchers-condition: and
+  method: GET
+  path:
+  - '{{BaseURL}}/login.php'
 id: syncserver-panel
-
 info:
-  name: Symmetricom SyncServer - Panel
   author: DhiyaneshDk
-  severity: info
+  classification:
+    cpe: cpe:2.3:o:microchip:syncserver_s650_firmware:*:*:*:*:*:*:*:*
   metadata:
     max-request: 1
-    verified: true
+    product: syncserver_s650_firmware
     shodan-query: html:"Symmetricom SyncServer"
-  tags: panel,login,syncserver,symmetricom
-
-http:
-  - method: GET
-    path:
-      - "{{BaseURL}}/login.php"
-
-    matchers-condition: and
-    matchers:
-      - type: word
-        part: body
-        words:
-          - 'Symmetricom SyncServer'
-          - 'login'
-        condition: and
-
-      - type: status
-        status:
-          - 200
-
-    extractors:
-      - type: regex
-        part: body
-        group: 1
-        regex:
-          - "Symmetricom SyncServer ([A-Z0-9]+)"
+    vendor: microchip
+    verified: true
+  name: Symmetricom SyncServer Panel - Detect
+  severity: info
+  tags: panel,login,syncserver,symmetricom,detect,microchip
